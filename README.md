@@ -2,6 +2,8 @@
 
 A comprehensive Python scraper to extract all cocktail details from the International Bartenders Association website. Features dynamic pagination discovery, image downloading, and HTML-to-markdown conversion for reliable parsing.
 
+A pre-prepared JSON of [cocktails available as of September 2025](https://github.com/matt-parish/iba-cocktails/blob/main/data/cocktails.json) is available.
+
 ## Features
 
 - **Complete data extraction**: All 102+ cocktails with ingredients, methods, garnish, categories, views, and video links

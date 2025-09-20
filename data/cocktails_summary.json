@@ -1,0 +1,526 @@
+{
+  "total_cocktails": 102,
+  "categories": {
+    "The unforgettables": 34,
+    "New Era": 34,
+    "Contemporary Classics": 34
+  },
+  "cocktails_by_category": {
+    "The unforgettables": [
+      {
+        "name": "Alexander",
+        "views": "128.6K views",
+        "url": "https://iba-world.com/iba-cocktail/alexander/"
+      },
+      {
+        "name": "Americano",
+        "views": "174.4K views",
+        "url": "https://iba-world.com/iba-cocktail/americano/"
+      },
+      {
+        "name": "Angel Face",
+        "views": "72.7K views",
+        "url": "https://iba-world.com/iba-cocktail/angel-face/"
+      },
+      {
+        "name": "Aviation",
+        "views": "140.6K views",
+        "url": "https://iba-world.com/iba-cocktail/aviation/"
+      },
+      {
+        "name": "Between the Sheets",
+        "views": "70.1K views",
+        "url": "https://iba-world.com/iba-cocktail/between-the-sheets/"
+      },
+      {
+        "name": "Boulevardier",
+        "views": "151.5K views",
+        "url": "https://iba-world.com/iba-cocktail/boulevardier/"
+      },
+      {
+        "name": "Brandy Crusta",
+        "views": "77.1K views",
+        "url": "https://iba-world.com/iba-cocktail/brandy-crusta/"
+      },
+      {
+        "name": "Casino",
+        "views": "97.6K views",
+        "url": "https://iba-world.com/iba-cocktail/casino/"
+      },
+      {
+        "name": "Clover Club",
+        "views": "81.7K views",
+        "url": "https://iba-world.com/iba-cocktail/clover-club/"
+      },
+      {
+        "name": "Daiquiri",
+        "views": "112.0K views",
+        "url": "https://iba-world.com/iba-cocktail/daiquiri/"
+      },
+      {
+        "name": "Dry Martini",
+        "views": "171.2K views",
+        "url": "https://iba-world.com/iba-cocktail/dry-martini/"
+      },
+      {
+        "name": "Gin Fizz",
+        "views": "115.0K views",
+        "url": "https://iba-world.com/iba-cocktail/gin-fizz/"
+      },
+      {
+        "name": "Hanky Panky",
+        "views": "51.8K views",
+        "url": "https://iba-world.com/iba-cocktail/hanky-panky/"
+      },
+      {
+        "name": "John Collins",
+        "views": "69.3K views",
+        "url": "https://iba-world.com/iba-cocktail/john-collins/"
+      },
+      {
+        "name": "Last Word",
+        "views": "58.8K views",
+        "url": "https://iba-world.com/iba-cocktail/last-word/"
+      },
+      {
+        "name": "Manhattan",
+        "views": "118.5K views",
+        "url": "https://iba-world.com/iba-cocktail/manhattan/"
+      },
+      {
+        "name": "Martinez",
+        "views": "59.5K views",
+        "url": "https://iba-world.com/iba-cocktail/martinez/"
+      },
+      {
+        "name": "Mary Pickford",
+        "views": "45.3K views",
+        "url": "https://iba-world.com/iba-cocktail/mary-pickford/"
+      },
+      {
+        "name": "Monkey Gland",
+        "views": "50.6K views",
+        "url": "https://iba-world.com/iba-cocktail/monkey-gland/"
+      },
+      {
+        "name": "Negroni",
+        "views": "87.6K views",
+        "url": "https://iba-world.com/iba-cocktail/negroni/"
+      },
+      {
+        "name": "Old Fashioned",
+        "views": "101.3K views",
+        "url": "https://iba-world.com/iba-cocktail/old-fashioned/"
+      },
+      {
+        "name": "Paradise",
+        "views": "39.9K views",
+        "url": "https://iba-world.com/iba-cocktail/paradise/"
+      },
+      {
+        "name": "Planters Punch",
+        "views": "45.1K views",
+        "url": "https://iba-world.com/iba-cocktail/planters-punch/"
+      },
+      {
+        "name": "Porto Flip",
+        "views": "48.2K views",
+        "url": "https://iba-world.com/iba-cocktail/porto-flip/"
+      },
+      {
+        "name": "Ramos Fizz",
+        "views": "48.6K views",
+        "url": "https://iba-world.com/iba-cocktail/ramos-fizz/"
+      },
+      {
+        "name": "Remember the Maine",
+        "views": "39.4K views",
+        "url": "https://iba-world.com/iba-cocktail/remember-the-maine/"
+      },
+      {
+        "name": "Rusty Nail",
+        "views": "39.9K views",
+        "url": "https://iba-world.com/iba-cocktail/rusty-nail/"
+      },
+      {
+        "name": "Sazerac",
+        "views": "58.2K views",
+        "url": "https://iba-world.com/iba-cocktail/sazerac/"
+      },
+      {
+        "name": "Sidecar",
+        "views": "68.0K views",
+        "url": "https://iba-world.com/iba-cocktail/sidecar/"
+      },
+      {
+        "name": "Stinger",
+        "views": "40.1K views",
+        "url": "https://iba-world.com/iba-cocktail/stinger/"
+      },
+      {
+        "name": "Tuxedo",
+        "views": "43.9K views",
+        "url": "https://iba-world.com/iba-cocktail/tuxedo/"
+      },
+      {
+        "name": "Vieux Carré",
+        "views": "42.2K views",
+        "url": "https://iba-world.com/iba-cocktail/vieux-carre/"
+      },
+      {
+        "name": "Whiskey Sour",
+        "views": "90.9K views",
+        "url": "https://iba-world.com/iba-cocktail/whiskey-sour/"
+      },
+      {
+        "name": "White Lady",
+        "views": "66.3K views",
+        "url": "https://iba-world.com/iba-cocktail/white-lady/"
+      }
+    ],
+    "New Era": [
+      {
+        "name": "Bee’s Knees",
+        "views": "95.6K views",
+        "url": "https://iba-world.com/iba-cocktail/bees-knees/"
+      },
+      {
+        "name": "Bramble",
+        "views": "95.6K views",
+        "url": "https://iba-world.com/iba-cocktail/bramble/"
+      },
+      {
+        "name": "Canchanchara",
+        "views": "77.9K views",
+        "url": "https://iba-world.com/iba-cocktail/canchanchara/"
+      },
+      {
+        "name": "Chartreuse Swizzle",
+        "views": "73.2K views",
+        "url": "https://iba-world.com/iba-cocktail/chartreuse-swizzle/"
+      },
+      {
+        "name": "Dark ‘N’ Stormy",
+        "views": "75.7K views",
+        "url": "https://iba-world.com/iba-cocktail/dark-n-stormy/"
+      },
+      {
+        "name": "Don's Special Daiquiri",
+        "views": "47.1K views",
+        "url": "https://iba-world.com/iba-cocktail/dons-special-daiquiri/"
+      },
+      {
+        "name": "Espresso Martini",
+        "views": "171.7K views",
+        "url": "https://iba-world.com/iba-cocktail/espresso-martini/"
+      },
+      {
+        "name": "Fernandito",
+        "views": "64.1K views",
+        "url": "https://iba-world.com/iba-cocktail/fernandito/"
+      },
+      {
+        "name": "French Martini",
+        "views": "49.8K views",
+        "url": "https://iba-world.com/iba-cocktail/french-martini/"
+      },
+      {
+        "name": "Gin Basil Smash",
+        "views": "61.7K views",
+        "url": "https://iba-world.com/iba-cocktail/gin-basil-smash/"
+      },
+      {
+        "name": "Grand Margarita",
+        "views": "41.0K views",
+        "url": "https://iba-world.com/iba-cocktail/grand-margarita/"
+      },
+      {
+        "name": "IBA Tiki",
+        "views": "61.0K views",
+        "url": "https://iba-world.com/iba-cocktail/iba-tiki/"
+      },
+      {
+        "name": "Illegal",
+        "views": "43.8K views",
+        "url": "https://iba-world.com/iba-cocktail/illegal/"
+      },
+      {
+        "name": "Jungle Bird",
+        "views": "65.1K views",
+        "url": "https://iba-world.com/iba-cocktail/jungle-bird/"
+      },
+      {
+        "name": "Missionary's Downfall",
+        "views": "45.1K views",
+        "url": "https://iba-world.com/iba-cocktail/missionarys-downfall/"
+      },
+      {
+        "name": "Naked and Famous",
+        "views": "57.5K views",
+        "url": "https://iba-world.com/iba-cocktail/naked-and-famous/"
+      },
+      {
+        "name": "New York Sour",
+        "views": "53.4K views",
+        "url": "https://iba-world.com/iba-cocktail/new-york-sour/"
+      },
+      {
+        "name": "Old Cuban",
+        "views": "43.3K views",
+        "url": "https://iba-world.com/iba-cocktail/old-cuban/"
+      },
+      {
+        "name": "Paloma",
+        "views": "79.1K views",
+        "url": "https://iba-world.com/iba-cocktail/paloma/"
+      },
+      {
+        "name": "Paper Plane",
+        "views": "70.1K views",
+        "url": "https://iba-world.com/iba-cocktail/paper-plane/"
+      },
+      {
+        "name": "Penicillin",
+        "views": "59.1K views",
+        "url": "https://iba-world.com/iba-cocktail/penicillin/"
+      },
+      {
+        "name": "Pisco Punch",
+        "views": "42.7K views",
+        "url": "https://iba-world.com/iba-cocktail/pisco-punch/"
+      },
+      {
+        "name": "Porn Star Martini",
+        "views": "713.6K views",
+        "url": "https://iba-world.com/iba-cocktail/porn-star-martini/"
+      },
+      {
+        "name": "Russian Spring Punch",
+        "views": "42.8K views",
+        "url": "https://iba-world.com/iba-cocktail/russian-spring-punch/"
+      },
+      {
+        "name": "Sherry Cobbler",
+        "views": "36.9K views",
+        "url": "https://iba-world.com/iba-cocktail/sherry-cobbler/"
+      },
+      {
+        "name": "South Side",
+        "views": "54.3K views",
+        "url": "https://iba-world.com/iba-cocktail/south-side/"
+      },
+      {
+        "name": "Spicy Fifty",
+        "views": "38.9K views",
+        "url": "https://iba-world.com/iba-cocktail/spicy-fifty/"
+      },
+      {
+        "name": "Spritz",
+        "views": "75.5K views",
+        "url": "https://iba-world.com/iba-cocktail/spritz/"
+      },
+      {
+        "name": "Suffering Bastard",
+        "views": "49.0K views",
+        "url": "https://iba-world.com/iba-cocktail/suffering-bastard/"
+      },
+      {
+        "name": "Three Dots and a Dash",
+        "views": "44.8K views",
+        "url": "https://iba-world.com/iba-cocktail/three-dots-and-a-dash/"
+      },
+      {
+        "name": "Tipperary",
+        "views": "37.4K views",
+        "url": "https://iba-world.com/iba-cocktail/tipperary/"
+      },
+      {
+        "name": "Tommy's Margarita",
+        "views": "57.3K views",
+        "url": "https://iba-world.com/iba-cocktail/tommys-margarita/"
+      },
+      {
+        "name": "Trinidad Sour",
+        "views": "38.5K views",
+        "url": "https://iba-world.com/iba-cocktail/trinidad-sour/"
+      },
+      {
+        "name": "Ve.N.To",
+        "views": "39.8K views",
+        "url": "https://iba-world.com/iba-cocktail/ve-n-to/"
+      }
+    ],
+    "Contemporary Classics": [
+      {
+        "name": "Bellini",
+        "views": "104.6K views",
+        "url": "https://iba-world.com/iba-cocktail/bellini/"
+      },
+      {
+        "name": "Black Russian",
+        "views": "121.2K views",
+        "url": "https://iba-world.com/iba-cocktail/black-russian/"
+      },
+      {
+        "name": "Bloody Mary",
+        "views": "87.8K views",
+        "url": "https://iba-world.com/iba-cocktail/bloody-mary/"
+      },
+      {
+        "name": "Caipirinha",
+        "views": "483.0K views",
+        "url": "https://iba-world.com/iba-cocktail/caipirinha/"
+      },
+      {
+        "name": "Cardinale",
+        "views": "50.7K views",
+        "url": "https://iba-world.com/iba-cocktail/cardinale/"
+      },
+      {
+        "name": "Champagne Cocktail",
+        "views": "51.5K views",
+        "url": "https://iba-world.com/iba-cocktail/champagne-cocktail/"
+      },
+      {
+        "name": "Corpse Reviver #2",
+        "views": "75.8K views",
+        "url": "https://iba-world.com/iba-cocktail/corpse-reviver-2/"
+      },
+      {
+        "name": "Cosmopolitan",
+        "views": "163.4K views",
+        "url": "https://iba-world.com/iba-cocktail/cosmopolitan/"
+      },
+      {
+        "name": "Cuba Libre",
+        "views": "79.8K views",
+        "url": "https://iba-world.com/iba-cocktail/cuba-libre/"
+      },
+      {
+        "name": "French 75",
+        "views": "64.1K views",
+        "url": "https://iba-world.com/iba-cocktail/french-75/"
+      },
+      {
+        "name": "French Connection",
+        "views": "55.7K views",
+        "url": "https://iba-world.com/iba-cocktail/french-connection/"
+      },
+      {
+        "name": "Garibaldi",
+        "views": "68.2K views",
+        "url": "https://iba-world.com/iba-cocktail/garibaldi/"
+      },
+      {
+        "name": "Grasshopper",
+        "views": "57.7K views",
+        "url": "https://iba-world.com/iba-cocktail/grasshopper/"
+      },
+      {
+        "name": "Hemingway Special",
+        "views": "64.3K views",
+        "url": "https://iba-world.com/iba-cocktail/hemingway-special/"
+      },
+      {
+        "name": "Horse’s Neck",
+        "views": "40.0K views",
+        "url": "https://iba-world.com/iba-cocktail/horses-neck/"
+      },
+      {
+        "name": "Irish Coffee",
+        "views": "56.9K views",
+        "url": "https://iba-world.com/iba-cocktail/irish-coffee/"
+      },
+      {
+        "name": "Kir",
+        "views": "40.7K views",
+        "url": "https://iba-world.com/iba-cocktail/kir/"
+      },
+      {
+        "name": "Lemon Drop Martini",
+        "views": "50.5K views",
+        "url": "https://iba-world.com/iba-cocktail/lemon-drop-martini/"
+      },
+      {
+        "name": "Long Island Iced Tea",
+        "views": "108.3K views",
+        "url": "https://iba-world.com/iba-cocktail/long-island-iced-tea/"
+      },
+      {
+        "name": "Mai-Tai",
+        "views": "96.7K views",
+        "url": "https://iba-world.com/iba-cocktail/mai-tai/"
+      },
+      {
+        "name": "Margarita",
+        "views": "163.4K views",
+        "url": "https://iba-world.com/iba-cocktail/margarita/"
+      },
+      {
+        "name": "Mimosa",
+        "views": "53.0K views",
+        "url": "https://iba-world.com/iba-cocktail/mimosa/"
+      },
+      {
+        "name": "Mint Julep",
+        "views": "39.9K views",
+        "url": "https://iba-world.com/iba-cocktail/mint-julep/"
+      },
+      {
+        "name": "Mojito",
+        "views": "101.2K views",
+        "url": "https://iba-world.com/iba-cocktail/mojito/"
+      },
+      {
+        "name": "Moscow Mule",
+        "views": "81.9K views",
+        "url": "https://iba-world.com/iba-cocktail/moscow-mule/"
+      },
+      {
+        "name": "Pina Colada",
+        "views": "90.9K views",
+        "url": "https://iba-world.com/iba-cocktail/pina-colada/"
+      },
+      {
+        "name": "Pisco Sour",
+        "views": "40.5K views",
+        "url": "https://iba-world.com/iba-cocktail/pisco-sour/"
+      },
+      {
+        "name": "Rabo de Galo",
+        "views": "38.1K views",
+        "url": "https://iba-world.com/iba-cocktail/rabo-de-galo/"
+      },
+      {
+        "name": "Sea Breeze",
+        "views": "39.6K views",
+        "url": "https://iba-world.com/iba-cocktail/sea-breeze/"
+      },
+      {
+        "name": "Sex on the Beach",
+        "views": "252.3K views",
+        "url": "https://iba-world.com/iba-cocktail/sex-on-the-beach/"
+      },
+      {
+        "name": "Singapore Sling",
+        "views": "50.0K views",
+        "url": "https://iba-world.com/iba-cocktail/singapore-sling/"
+      },
+      {
+        "name": "Tequila Sunrise",
+        "views": "63.3K views",
+        "url": "https://iba-world.com/iba-cocktail/tequila-sunrise/"
+      },
+      {
+        "name": "Vesper",
+        "views": "58.3K views",
+        "url": "https://iba-world.com/iba-cocktail/vesper/"
+      },
+      {
+        "name": "Zombie",
+        "views": "60.6K views",
+        "url": "https://iba-world.com/iba-cocktail/zombie/"
+      }
+    ]
+  }
+}

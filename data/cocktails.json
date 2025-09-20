@@ -1,0 +1,2886 @@
+{
+  "metadata": {
+    "total_cocktails": 102,
+    "scraped_date": "2025-09-20T10:58:24.509090",
+    "scraper_version": "1.0",
+    "source_url": "https://iba-world.com/cocktails/all-cocktails/"
+  },
+  "cocktails": [
+    {
+      "name": "Alexander",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "Cognac"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Crème de Cacao (Brown)"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Fresh Cream"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+      "garnish": "Sprinkle fresh ground nutmeg on top.",
+      "views": "128.6K views",
+      "url": "https://iba-world.com/iba-cocktail/alexander/",
+      "video_url": "https://www.youtube.com/watch?v=pr5-AGgOozU",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-alexander-669491364f7f2.webp"
+    },
+    {
+      "name": "Americano",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "Bitter Campari"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Sweet Red Vermouth"
+        },
+        {
+          "amount": "A splash of",
+          "name": "Soda Water"
+        }
+      ],
+      "method": "Mix the ingredients directly in an old fashioned glass filled with ice cubes. Add a splash of Soda Water. Stir gently.",
+      "garnish": "Garnish with half orange slice and a lemon zest.",
+      "views": "174.4K views",
+      "url": "https://iba-world.com/iba-cocktail/americano/",
+      "video_url": "https://www.youtube.com/watch?v=jICPm1fc72E",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-americano-669490fe3cb42.webp"
+    },
+    {
+      "name": "Angel Face",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Apricot Brandy"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Calvados"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+      "garnish": "N/A",
+      "views": "72.7K views",
+      "url": "https://iba-world.com/iba-cocktail/angel-face/",
+      "video_url": "https://www.youtube.com/watch?v=YHSEmhHBhzo",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-angel-face-669490fe6df67.webp"
+    },
+    {
+      "name": "Aviation",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Maraschino **Luxardo**"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "",
+          "name": "1 Bar Spoon Crème de Violette"
+        }
+      ],
+      "method": "Add all ingredients into a cocktail shaker. Shake with cracked ice and strain into a chilled cocktail glass.",
+      "garnish": "Optional Maraschino Cherry.",
+      "views": "140.6K views",
+      "url": "https://iba-world.com/iba-cocktail/aviation/",
+      "video_url": "https://www.youtube.com/watch?v=FfV4Ll7oNHE",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-aviation-66949102296a4.webp"
+    },
+    {
+      "name": "Bee’s Knees",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "52.5 ml",
+          "name": "Dry Gin"
+        },
+        {
+          "amount": "",
+          "name": "2 teaspoons Honey Syrup"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Fresh Orange Juice"
+        }
+      ],
+      "method": "Stir honey with lemon and orange juices until it dissolves, add gin and shake with ice. Strain into a chilled cocktail glass.",
+      "garnish": "Optionally garnish with a lemon or orange zest.",
+      "views": "95.6K views",
+      "url": "https://iba-world.com/iba-cocktail/bees-knees/",
+      "video_url": "https://www.youtube.com/watch?v=u7v_cI9gcy8",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-bees-knees-6695d397e26c1.webp"
+    },
+    {
+      "name": "Bellini",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "100 ml",
+          "name": "Prosecco"
+        },
+        {
+          "amount": "50 ml",
+          "name": "White Peach Puree"
+        }
+      ],
+      "method": "Pour peach puree into the mixing glass with ice, add the Prosecco wine. Stir gently and pour in a chilled flute glass. **NOTE: **Puccini – Fresh Mandarin Orange Juice; Rossini – Fresh Strawberry Puree; Tintoretto – Fresh Pomegranate Juice.",
+      "garnish": "N/A.",
+      "views": "104.6K views",
+      "url": "https://iba-world.com/iba-cocktail/bellini/",
+      "video_url": "https://www.youtube.com/watch?v=yIkvSw59V_E",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-bellini-6695cda4217da.webp"
+    },
+    {
+      "name": "Between the Sheets",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "White Rum"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Cognac"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Triple Sec"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Fresh Lemon Juice"
+        }
+      ],
+      "method": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
+      "garnish": "N/A",
+      "views": "70.1K views",
+      "url": "https://iba-world.com/iba-cocktail/between-the-sheets/",
+      "video_url": "https://www.youtube.com/watch?v=-wLpX8iICeU",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-between-the-sheets-669491023d7af.webp"
+    },
+    {
+      "name": "Black Russian",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "50 ml",
+          "name": "Vodka"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Coffee Liqueur"
+        }
+      ],
+      "method": "Pour the ingredients into the old fashioned glass filled with ice cubes. Stir gently. strain ingredients into old fashioned glass filled with ice. **NOTE: **WHITE RUSSIAN – Float fresh cream on the top and stir in slowly.",
+      "garnish": "N/A",
+      "views": "121.2K views",
+      "url": "https://iba-world.com/iba-cocktail/black-russian/",
+      "video_url": "https://www.youtube.com/watch?v=iOoBh4Qc6gs",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-black-russian-6695cda4183dc.webp"
+    },
+    {
+      "name": "Bloody Mary",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Vodka"
+        },
+        {
+          "amount": "90 ml",
+          "name": "Tomato Juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "",
+          "name": "2 dashes Worcestershire Sauce"
+        },
+        {
+          "amount": "",
+          "name": "Tabasco, Celery Salt, Pepper (Up to taste)"
+        }
+      ],
+      "method": "Stir gently all the ingredients in a mixing glass with ice, pour into rocks glass. **NOTE: **If requested served with ice, pour into highball glass.",
+      "garnish": "Celery, lemon wedge (Optional).",
+      "views": "87.8K views",
+      "url": "https://iba-world.com/iba-cocktail/bloody-mary/",
+      "video_url": "https://www.youtube.com/watch?v=SLj0vs3Hu2E",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-bloody-mary-6695cda72fe0f.webp"
+    },
+    {
+      "name": "Boulevardier",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Bourbon or Rye Whiskey"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Bitter Campari"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Sweet Red Vermouth"
+        }
+      ],
+      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+      "garnish": "Garnish with a orange zest, optionally a lemon zest.",
+      "views": "151.5K views",
+      "url": "https://iba-world.com/iba-cocktail/boulevardier/",
+      "video_url": "https://www.youtube.com/watch?v=tToFmEpsTsE",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-boulevardier-6694910552acd.webp"
+    },
+    {
+      "name": "Bramble",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "50 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "25 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "12.5 ml",
+          "name": "Sugar Syrup"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Crème de Mûre"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker except the Crème de Mûre, shake well with ice, strain into chilled old fashioned glass filled with crushed ice, then pour the blackberry liqueur (Crème de Mûre) over the top of the drink, in a circular motion.",
+      "garnish": "Garnish optionally with a lemon slice and blackberries.",
+      "views": "95.6K views",
+      "url": "https://iba-world.com/iba-cocktail/bramble/",
+      "video_url": "https://www.youtube.com/watch?v=N0SBJ_Oe54I",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-bramble-6695d398036e1.webp"
+    },
+    {
+      "name": "Brandy Crusta",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "52.5 ml",
+          "name": "Brandy"
+        },
+        {
+          "amount": "7.5 ml",
+          "name": "Maraschino **Luxardo**"
+        },
+        {
+          "amount": "",
+          "name": "1 Bar Spoon Curacao"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "",
+          "name": "1 Bar Spoon Simple Syrup"
+        },
+        {
+          "amount": "",
+          "name": "2 Dashes Aromatic Bitters"
+        }
+      ],
+      "method": "Mix together all ingredients with ice cubes in a mixing glass and strain into a prepared slim cocktail glass.",
+      "garnish": "Rub a slice of orange (or lemon) around the rim of the glass and dip it in pulverized white sugar, so that the sugar will adhere to the edge of the glass. Carefully curling place the orange/lemon peel around the inside of the glass.",
+      "views": "77.1K views",
+      "url": "https://iba-world.com/iba-cocktail/brandy-crusta/",
+      "video_url": "https://www.youtube.com/watch?v=C2EK9mrwwz4",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-brandy-crusta-6694910571bcb.webp"
+    },
+    {
+      "name": "Caipirinha",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "60 ml",
+          "name": "Cachaça"
+        },
+        {
+          "amount": "",
+          "name": "1 Lime cut into small wedges"
+        },
+        {
+          "amount": "",
+          "name": "4 Teaspoons White Cane Sugar"
+        }
+      ],
+      "method": "Place lime and sugar into a double old fashioned glass and muddle gently. Fill the glass with cracked ice and add Cachaça. Stir gently to involve ingredients. **Note: **Caipiroska – Instead of Cachaça use Vodka; Caipirissima – Instead of Cachaça use Rum. Caipirão – Instead of Cachaça use Licor Beirão.",
+      "garnish": "N/A",
+      "views": "483.0K views",
+      "url": "https://iba-world.com/iba-cocktail/caipirinha/",
+      "video_url": "https://www.youtube.com/watch?v=nil7VZJBoEU",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-caipirinha-6695cda74b13a.webp"
+    },
+    {
+      "name": "Canchanchara",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "60 ml",
+          "name": "Cuban Aguardiente"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Lime Juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Raw Honey"
+        },
+        {
+          "amount": "50 ml",
+          "name": "Water"
+        }
+      ],
+      "method": "Mix honey with water and lime juice and spread the mixture on the bottom and sides of the glass. Add cracked ice, and then the rum. End by energetically stirring from bottom to top.",
+      "garnish": "Garnish with a lime wedge.",
+      "views": "77.9K views",
+      "url": "https://iba-world.com/iba-cocktail/canchanchara/",
+      "video_url": "https://www.youtube.com/watch?v=pK0MRwpLC94",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-canchanchara-6695d39b24d7e.webp"
+    },
+    {
+      "name": "Cardinale",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "40 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Dry Vermouth"
+        },
+        {
+          "amount": "10 ml",
+          "name": "Bitter Campari"
+        }
+      ],
+      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+      "garnish": "Garnish with a lemon zest.",
+      "views": "50.7K views",
+      "url": "https://iba-world.com/iba-cocktail/cardinale/",
+      "video_url": "https://www.youtube.com/watch?v=r-KZFxaIR-k",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-cardinale-6695cdaa5f0d8.webp"
+    },
+    {
+      "name": "Casino",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "40 ml",
+          "name": "Old Tom Gin"
+        },
+        {
+          "amount": "10 ml",
+          "name": "Maraschino **Luxardo**"
+        },
+        {
+          "amount": "10 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "",
+          "name": "2 Dashes Orange Bitters"
+        }
+      ],
+      "method": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled rocks glass with ice.",
+      "garnish": "Garnish with a lemon zest and a maraschino cherry.",
+      "views": "97.6K views",
+      "url": "https://iba-world.com/iba-cocktail/casino/",
+      "video_url": "https://www.youtube.com/watch?v=Xomx4il2GnM",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-casino-6694910882cd6.webp"
+    },
+    {
+      "name": "Champagne Cocktail",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "90 ml",
+          "name": "Chilled Champagne"
+        },
+        {
+          "amount": "10 ml",
+          "name": "Cognac"
+        },
+        {
+          "amount": "",
+          "name": "2 dashes Angostura bitters"
+        },
+        {
+          "amount": "Few drops",
+          "name": "of Grand Marnier (optional)"
+        },
+        {
+          "amount": "",
+          "name": "1 sugar cube"
+        }
+      ],
+      "method": "Place the sugar cube with 2 dashes of bitters in a large Champagne glass, add the cognac. Pour gently chilled Champagne.",
+      "garnish": "Garnish with orange zest and maraschino cherry.",
+      "views": "51.5K views",
+      "url": "https://iba-world.com/iba-cocktail/champagne-cocktail/",
+      "video_url": "https://www.youtube.com/watch?v=liGUP4kfCZ0",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-champagne-cocktail-6695cdaa71bb2.webp"
+    },
+    {
+      "name": "Chartreuse Swizzle",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Green Chartreuse"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Fresh Pineapple Juice"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Fresh Lime Juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Falernum"
+        }
+      ],
+      "method": "Pour all ingredients into a tall glass, add pebble ice. With the help of a swizzle stick (or cocktail spoon) mix vigorously, complete by filling the glass with more pebble ice.",
+      "garnish": "Garnish with mint leaves and grated nutmeg.",
+      "views": "73.2K views",
+      "url": "https://iba-world.com/iba-cocktail/chartreuse-swizzle/",
+      "video_url": "https://www.youtube.com/watch?v=EHDL_2MtyXE",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-chartreuse-swizzle-6695d39b326e0.webp"
+    },
+    {
+      "name": "Clover Club",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Raspberry Syrup"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "Few Drops",
+          "name": "of Egg White"
+        }
+      ],
+      "method": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled cocktail glass.",
+      "garnish": "Fresh raspberries.",
+      "views": "81.7K views",
+      "url": "https://iba-world.com/iba-cocktail/clover-club/",
+      "video_url": "https://www.youtube.com/watch?v=oo9R082EgGs",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-clover-club-66949108a3e54.webp"
+    },
+    {
+      "name": "Corpse Reviver #2",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Cointreau"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Lillet Blanc"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "1 dash",
+          "name": "Absinthe"
+        }
+      ],
+      "method": "Pour all ingredients into shaker with ice. Shake well and strain in chilled cocktail glass.",
+      "garnish": "Garnish with an orange zest.",
+      "views": "75.8K views",
+      "url": "https://iba-world.com/iba-cocktail/corpse-reviver-2/",
+      "video_url": "https://www.youtube.com/watch?v=DnckejSfjvk",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-corpse-reviver-2-6695cdad6da15.webp"
+    },
+    {
+      "name": "Cosmopolitan",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "40 ml",
+          "name": "Vodka Citron"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Cointreau"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Lime Juice"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Cranberry Juice"
+        }
+      ],
+      "method": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.",
+      "garnish": "Garnish with lemon twist.",
+      "views": "163.4K views",
+      "url": "https://iba-world.com/iba-cocktail/cosmopolitan/",
+      "video_url": "https://www.youtube.com/watch?v=dKaPC677-iU",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-cosmopolitan-6695cdae389dc.webp"
+    },
+    {
+      "name": "Cuba Libre",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "50 ml",
+          "name": "White Rum"
+        },
+        {
+          "amount": "120 ml",
+          "name": "Cola"
+        },
+        {
+          "amount": "10 ml",
+          "name": "Fresh Lime Juice"
+        }
+      ],
+      "method": "Build all ingredients in a highball glass filled with ice.",
+      "garnish": "Garnish with lime wedge.",
+      "views": "79.8K views",
+      "url": "https://iba-world.com/iba-cocktail/cuba-libre/",
+      "video_url": "https://www.youtube.com/watch?v=oo49ybutqiQ",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-cuba-libre-6695cdb0a6f80.webp"
+    },
+    {
+      "name": "Daiquiri",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "60 ml",
+          "name": "White Cuban Ron"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Fresh Lime Juice"
+        },
+        {
+          "amount": "",
+          "name": "2 Bar Spoons Superfine Sugar"
+        }
+      ],
+      "method": "In a cocktail shaker add all ingredients. Stir well to dissolve the sugar. Add ice and shake. Strain into chilled cocktail glass.",
+      "garnish": "N/A",
+      "views": "112.0K views",
+      "url": "https://iba-world.com/iba-cocktail/daiquiri/",
+      "video_url": "https://www.youtube.com/watch?v=Vyi1YUSRyk4",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-daiquiri-6694910c5866e.webp"
+    },
+    {
+      "name": "Dark ‘N’ Stormy",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "60 ml",
+          "name": "Goslings Rum"
+        },
+        {
+          "amount": "100 ml",
+          "name": "Ginger Beer"
+        }
+      ],
+      "method": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
+      "garnish": "Garnish with a lime wedge or slice.",
+      "views": "75.7K views",
+      "url": "https://iba-world.com/iba-cocktail/dark-n-stormy/",
+      "video_url": "https://www.youtube.com/watch?v=Bys-Sa_ZiCM",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-dark-n-stormy-6695d39e2bd94.webp"
+    },
+    {
+      "name": "Don's Special Daiquiri",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "Gold Jamaican Rum"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Cuban Rum"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Passion Fruit Syrup"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh lime juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Honey Syrup"
+        }
+      ],
+      "method": "Blend for a few seconds in a milkshake mixer with crushed ice and pour into a footed copo glass. Fill the glass with more crushed ice.",
+      "garnish": "Garnish with 1/2 passion fruit",
+      "views": "47.1K views",
+      "url": "https://iba-world.com/iba-cocktail/dons-special-daiquiri/",
+      "video_url": "https://www.youtube.com/watch?v=-nuxrAH1eEk",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-dons-special-daiquiri-6695d39e89fd7.webp"
+    },
+    {
+      "name": "Dry Martini",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "60 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "10 ml",
+          "name": "Dry Vermouth"
+        }
+      ],
+      "method": "* Pour all ingredients into mixing glass with ice cubes. Stir well. * Strain into chilled martini cocktail glass.",
+      "garnish": "Squeeze oil from lemon peel onto the drink, or garnish with a green olives if requested.",
+      "views": "171.2K views",
+      "url": "https://iba-world.com/iba-cocktail/dry-martini/",
+      "video_url": "https://www.youtube.com/watch?v=e9A5YX6BUzM",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-dry-martini-6694910fb500c.webp"
+    },
+    {
+      "name": "Espresso Martini",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "50 ml",
+          "name": "Vodka"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Kahlúa"
+        },
+        {
+          "amount": "10 ml",
+          "name": "Sugar Syrup"
+        },
+        {
+          "amount": "",
+          "name": "1 strong Espresso"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+      "garnish": "3 coffee beans",
+      "views": "171.7K views",
+      "url": "https://iba-world.com/iba-cocktail/espresso-martini/",
+      "video_url": "https://www.youtube.com/watch?v=P9znTX7DrRk",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-espresso-martini-6695d3a172fd3.webp"
+    },
+    {
+      "name": "Fernandito",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "50 ml",
+          "name": "Fernet Branca"
+        },
+        {
+          "amount": "",
+          "name": "Fill up with Cola"
+        }
+      ],
+      "method": "Pour the Fernet Branca into a double old fashioned glass with ice, fill the glass up with Cola. Gently stir.",
+      "garnish": "N/A",
+      "views": "64.1K views",
+      "url": "https://iba-world.com/iba-cocktail/fernandito/",
+      "video_url": "https://www.youtube.com/watch?v=XCUiLpnaHp4",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-fernandito-6695d3a1a3586.webp"
+    },
+    {
+      "name": "French 75",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Sugar Syrup"
+        },
+        {
+          "amount": "60 ml",
+          "name": "Champagne"
+        }
+      ],
+      "method": "Pour all the ingredients, except Champagne, into a shaker. Shake well and strain into a Champagne flute. Top up with Champagne. Stir gently.",
+      "garnish": "N/A",
+      "views": "64.1K views",
+      "url": "https://iba-world.com/iba-cocktail/french-75/",
+      "video_url": "https://www.youtube.com/watch?v=lF9fAhkyATs",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-french-75-6695cdb175e06.webp"
+    },
+    {
+      "name": "French Connection",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "35 ml",
+          "name": "Cognac"
+        },
+        {
+          "amount": "35 ml",
+          "name": "Amaretto"
+        }
+      ],
+      "method": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.",
+      "garnish": "N/A",
+      "views": "55.7K views",
+      "url": "https://iba-world.com/iba-cocktail/french-connection/",
+      "video_url": "https://www.youtube.com/watch?v=smlUadU8j8Q",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-french-connection-6695cdb3cc15f.webp"
+    },
+    {
+      "name": "French Martini",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Vodka"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Raspberry Liqueur"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Pineapple Juice"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+      "garnish": "Squeeze oil from lemon peel onto the drink.",
+      "views": "49.8K views",
+      "url": "https://iba-world.com/iba-cocktail/french-martini/",
+      "video_url": "https://www.youtube.com/watch?v=E1q3w_56jKs",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-french-martini-6695d3a4acf5f.webp"
+    },
+    {
+      "name": "Garibaldi",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Bitter Campari"
+        },
+        {
+          "amount": "120 ml",
+          "name": "Freshly Squeezed Orange Juice"
+        }
+      ],
+      "method": "Build all ingredients in a highball glass filled with ice.",
+      "garnish": "Garnish with an orange wedge.",
+      "views": "68.2K views",
+      "url": "https://iba-world.com/iba-cocktail/garibaldi/",
+      "video_url": "https://www.youtube.com/watch?v=Ym8ttc7x8MU",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-garibaldi-6695cdb4cbf81.webp"
+    },
+    {
+      "name": "Gin Basil Smash",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "60ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Freshly Squeezed Lemon Juice"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Sugar Syrup"
+        },
+        {
+          "amount": "",
+          "name": "10 pcs Italian Basil leaves"
+        }
+      ],
+      "method": "Add all ingredients into shaker with ice. Shake vigorously and pour into chilled cocktail glass.",
+      "garnish": "N/A",
+      "views": "61.7K views",
+      "url": "https://iba-world.com/iba-cocktail/gin-basil-smash/",
+      "video_url": "https://www.youtube.com/watch?v=3T0zb0pXTfg",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-gin-basil-smash-6695d3a4c0967.webp"
+    },
+    {
+      "name": "Gin Fizz",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "10 ml",
+          "name": "Simple Syrup"
+        },
+        {
+          "amount": "",
+          "name": "Splash of Soda Water"
+        }
+      ],
+      "method": "Shake all ingredients with ice except soda water. Pour into thin tall Tumbler glass , top with a splash soda water. **NOTE: **Serve without ice.",
+      "garnish": "Garnish with lemon slice, optional lemon zest.",
+      "views": "115.0K views",
+      "url": "https://iba-world.com/iba-cocktail/gin-fizz/",
+      "video_url": "https://www.youtube.com/watch?v=ovziLbpas0E",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-gin-fizz-6694910fc2eab.webp"
+    },
+    {
+      "name": "Grand Margarita",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Tequila 100% agave"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Grand Marnier"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Lime Juice"
+        }
+      ],
+      "method": "Rim the rock glass with good quality sea salt. Pour the ingredients into the shaker. Add ice to both glass and shaker. Shake hard for 10 seconds. Strain the drink into the glass.",
+      "garnish": "Garnish with a lime slice.",
+      "views": "41.0K views",
+      "url": "https://iba-world.com/iba-cocktail/grand-margarita/",
+      "video_url": null,
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-tommys-margarita-6695d3c7171ef.webp"
+    },
+    {
+      "name": "Grasshopper",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "20 ml",
+          "name": "Crème de Cacao (White)"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Crème de Menthe (Green)"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Fresh Cream"
+        }
+      ],
+      "method": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass.",
+      "garnish": "N/A, optional mint leave.",
+      "views": "57.7K views",
+      "url": "https://iba-world.com/iba-cocktail/grasshopper/",
+      "video_url": "https://www.youtube.com/watch?v=7Hfq2PxVOD0",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-grasshopper-6695cdb737498.webp"
+    },
+    {
+      "name": "Hanky Panky",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "London Dry Gin"
+        },
+        {
+          "amount": "45 ml",
+          "name": "Sweet Red Vermouth"
+        },
+        {
+          "amount": "7.5 ml",
+          "name": "Fernet"
+        }
+      ],
+      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+      "garnish": "Orange zest.",
+      "views": "51.8K views",
+      "url": "https://iba-world.com/iba-cocktail/hanky-panky/",
+      "video_url": "https://www.youtube.com/watch?v=YO1oUoyktN0",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-hanky-panky-66949112edbf5.webp"
+    },
+    {
+      "name": "Hemingway Special",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "60 ml",
+          "name": "Rum"
+        },
+        {
+          "amount": "40 ml",
+          "name": "Grapefruit Juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Maraschino Luxardo"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Lime"
+        }
+      ],
+      "method": "Pour all ingredients into a shaker with ice. Shake well and strain into a large cocktail glass.",
+      "garnish": "N/A",
+      "views": "64.3K views",
+      "url": "https://iba-world.com/iba-cocktail/hemingway-special/",
+      "video_url": "https://www.youtube.com/watch?v=1pFVdJ42Ydk",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-hemingway-special-6695cdb814e5a.webp"
+    },
+    {
+      "name": "Horse’s Neck",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "40 ml",
+          "name": "Cognac"
+        },
+        {
+          "amount": "120 ml",
+          "name": "Ginger Ale"
+        },
+        {
+          "amount": "",
+          "name": "Dash of Angostura Bitters (optional)"
+        }
+      ],
+      "method": "Pour Cognac and ginger ale directly into highball glass with ice cubes. Stir gently. If preferred, add dashes of Angostura Bitter.",
+      "garnish": "Garnish with rind of one lemon spiral.",
+      "views": "40.0K views",
+      "url": "https://iba-world.com/iba-cocktail/horses-neck/",
+      "video_url": "https://www.youtube.com/watch?v=kn_3gNrNiK8",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-horses-neck-6695cdba5fadc.webp"
+    },
+    {
+      "name": "IBA Tiki",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "Ron Profundo Havana Club"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Ron Smoky Havana Club"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Licor Amaretto"
+        },
+        {
+          "amount": "5 ml",
+          "name": "Licor Frangelico"
+        },
+        {
+          "amount": "",
+          "name": "5 drops Maraschino Luxardo"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Passion Fruit Puree"
+        },
+        {
+          "amount": "",
+          "name": "90 Fresh Pineapple Juice"
+        },
+        {
+          "amount": "",
+          "name": "30 Fresh Lime Juice"
+        },
+        {
+          "amount": "",
+          "name": "1 pc Gengibre Slice"
+        }
+      ],
+      "method": "In a cocktail shaker muddle a thin slice of Gengibre, Pour all other ingredients. Shake vigorously with ice. Strain into a chilled Tiki glass filled with pebbled ice.",
+      "garnish": "Garnish with citruses and dehydrated pineapple slice.",
+      "views": "61.0K views",
+      "url": "https://iba-world.com/iba-cocktail/iba-tiki/",
+      "video_url": null,
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-iba-tiki-6695d3a7e33fd.webp"
+    },
+    {
+      "name": "Illegal",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "Espadin Mezcal"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Jamaica Overproof White Rum"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Falernum"
+        },
+        {
+          "amount": "",
+          "name": "1 Bar Spoon Maraschino Luxardo"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Fresh Lime Juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Simple Syrup"
+        },
+        {
+          "amount": "Few Drops",
+          "name": "of Egg White (Optional)"
+        }
+      ],
+      "method": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled cocktail glass, or “on the rocks” in a traditional clay or terracotta mug.",
+      "garnish": "N/A",
+      "views": "43.8K views",
+      "url": "https://iba-world.com/iba-cocktail/illegal/",
+      "video_url": "https://www.youtube.com/watch?v=_2miULIOS3Y",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-illegal-6695d3a7de51f.webp"
+    },
+    {
+      "name": "Irish Coffee",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "50 ml",
+          "name": "Irish Whiskey"
+        },
+        {
+          "amount": "120 ml",
+          "name": "Hot coffee"
+        },
+        {
+          "amount": "50 ml",
+          "name": "Fresh cream (Chilled)"
+        },
+        {
+          "amount": "",
+          "name": "1 teaspoon Sugar"
+        }
+      ],
+      "method": "Warm black coffee is poured into a preheated Irish coffee glass. Whiskey and at least one teaspoon of sugar is added and stirred until dissolved. Fresh thick chilled cream is carefully poured over the back of a spoon held just above the surface of the coffee. The layer of cream will float on the coffee without mixing. Plain sugar can be replaced with sugar syrup",
+      "garnish": "N/A",
+      "views": "56.9K views",
+      "url": "https://iba-world.com/iba-cocktail/irish-coffee/",
+      "video_url": "https://www.youtube.com/watch?v=MWLonPDIpTo",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-irish-coffee-copy-6695cdbb430cd.webp"
+    },
+    {
+      "name": "John Collins",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Simple Syrup"
+        },
+        {
+          "amount": "60 ml",
+          "name": "Soda Water"
+        }
+      ],
+      "method": "Pour all ingredients directly into highball filled with ice. Stir gently. **NOTE: **Use ‘Old Tom’ Gin for Tom Collins.",
+      "garnish": "Garnish with lemon slice and maraschino cherry.",
+      "views": "69.3K views",
+      "url": "https://iba-world.com/iba-cocktail/john-collins/",
+      "video_url": "https://www.youtube.com/watch?v=Zu1Z96TpbW8",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-john-collins-669491130ef87.webp"
+    },
+    {
+      "name": "Jungle Bird",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Blackstrap rum"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Campari"
+        },
+        {
+          "amount": "45 ml",
+          "name": "Pineapple juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Freshly Squeezed Lime juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Demerara sugar syrup"
+        }
+      ],
+      "method": "Pour all ingredients into a shaker with ice and shake. Strain into a rocks glass filled with ice.",
+      "garnish": "Garnish with a pineapple wedge.",
+      "views": "65.1K views",
+      "url": "https://iba-world.com/iba-cocktail/jungle-bird/",
+      "video_url": "https://www.youtube.com/watch?v=_aq8vPPBxiE",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-jungle-bird-6695d3ab45a87.webp"
+    },
+    {
+      "name": "Kir",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "90 ml",
+          "name": "Dry White Wine"
+        },
+        {
+          "amount": "10 ml",
+          "name": "Crème de Cassis"
+        }
+      ],
+      "method": "Pour Crème de Cassis into glass, top up with white wine. **NOTE: **Kir Royal – Use Champagne instead of white wine",
+      "garnish": "N/A",
+      "views": "40.7K views",
+      "url": "https://iba-world.com/iba-cocktail/kir/",
+      "video_url": "https://www.youtube.com/watch?v=pRZuuQow3hE",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-kir-6695cdbdbb2e1.webp"
+    },
+    {
+      "name": "Last Word",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "22.5 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Green Chartreuse"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Maraschino **Luxardo**"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Fresh Lime Juice"
+        }
+      ],
+      "method": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
+      "garnish": "N/A",
+      "views": "58.8K views",
+      "url": "https://iba-world.com/iba-cocktail/last-word/",
+      "video_url": "https://www.youtube.com/watch?v=5mUFczY-csc",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-last-word-6694911607ddf.webp"
+    },
+    {
+      "name": "Lemon Drop Martini",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "Vodka"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Triple Sec"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Squeezed Lemon Juice"
+        }
+      ],
+      "method": "Pour all ingredients into a shaker with ice. Shake well and strain into a chilled cocktail glass.",
+      "garnish": "N/A",
+      "views": "50.5K views",
+      "url": "https://iba-world.com/iba-cocktail/lemon-drop-martini/",
+      "video_url": "https://www.youtube.com/watch?v=KcSjqOw0BbU",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-lemon-drop-martini-6695cdbe3eed7.webp"
+    },
+    {
+      "name": "Long Island Iced Tea",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "15 ml",
+          "name": "Vodka"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Tequila"
+        },
+        {
+          "amount": "15 ml",
+          "name": "White rum"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Cointreau"
+        },
+        {
+          "amount": "25 ml",
+          "name": "Lemon juice"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Simple syrup"
+        },
+        {
+          "amount": "",
+          "name": "Top with Cola"
+        }
+      ],
+      "method": "Add all ingredients into highball glass filled with ice. Stir gently.",
+      "garnish": "Garnish with lemon slice (Optional).",
+      "views": "108.3K views",
+      "url": "https://iba-world.com/iba-cocktail/long-island-iced-tea/",
+      "video_url": "https://www.youtube.com/watch?v=aND4ay7mQJ4",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-long-island-iced-tea-6695cdc10c463.webp"
+    },
+    {
+      "name": "Mai-Tai",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "Amber Jamaican Rum"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Martinique Molasses Rhum*"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Orange Curacao"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Orgeat Syrup (Almond)"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Fresh Squeezed Lime Juice"
+        },
+        {
+          "amount": "7.5 ml",
+          "name": "Simple Syrup"
+        }
+      ],
+      "method": "Add all ingredients into a shaker with ice. Shake and pour into a double rocks glass or an highball glass. * The Martinique molasses rum used by Trader Vic was not an Agricole Rhum but a type of “rummy” from molasses.",
+      "garnish": "Garnish with pineapple spear, mint leaves and lime peel.",
+      "views": "96.7K views",
+      "url": "https://iba-world.com/iba-cocktail/mai-tai/",
+      "video_url": "https://www.youtube.com/watch?v=TRv82F2rQlY",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-mai-tai-6695cdc169ea3.webp"
+    },
+    {
+      "name": "Manhattan",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "50 ml",
+          "name": "Rye Whiskey"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Sweet Red Vermouth"
+        },
+        {
+          "amount": "1 dash",
+          "name": "Angostura Bitters"
+        }
+      ],
+      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+      "garnish": "Garnish with cocktail cherry.",
+      "views": "118.5K views",
+      "url": "https://iba-world.com/iba-cocktail/manhattan/",
+      "video_url": "https://www.youtube.com/watch?v=pXI_OeayD2w",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-manhattan-6694911627de7.webp"
+    },
+    {
+      "name": "Margarita",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "50 ml",
+          "name": "Tequila 100% Agave"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Triple Sec"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Freshly Squeezed Lime Juice"
+        }
+      ],
+      "method": "Add all ingredients into a shaker with ice. Shake and strain into a chilled cocktail glass.",
+      "garnish": "Half salt rim (Optional).",
+      "views": "163.4K views",
+      "url": "https://iba-world.com/iba-cocktail/margarita/",
+      "video_url": "https://www.youtube.com/watch?v=cKqcp0NORK0",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-margarita-6695cdd7505e0.webp"
+    },
+    {
+      "name": "Martinez",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "London Dry Gin"
+        },
+        {
+          "amount": "45 ml",
+          "name": "Sweet Red Vermouth"
+        },
+        {
+          "amount": "",
+          "name": "1 Bar Spoon Maraschino **Luxardo**"
+        },
+        {
+          "amount": "",
+          "name": "2 Dashes Orange Bitters"
+        }
+      ],
+      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+      "garnish": "Lemon zest.",
+      "views": "59.5K views",
+      "url": "https://iba-world.com/iba-cocktail/martinez/",
+      "video_url": "https://www.youtube.com/watch?v=YzARtB3fZxM",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-martinez-6694911927849.webp"
+    },
+    {
+      "name": "Mary Pickford",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "White Rum"
+        },
+        {
+          "amount": "45 ml",
+          "name": "Fresh Pineapple Juice"
+        },
+        {
+          "amount": "7.5 ml",
+          "name": "Maraschino Luxardo"
+        },
+        {
+          "amount": "5 ml",
+          "name": "Grenadine Syrup"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+      "garnish": "N/A",
+      "views": "45.3K views",
+      "url": "https://iba-world.com/iba-cocktail/mary-pickford/",
+      "video_url": "https://www.youtube.com/watch?v=oZw5AxZSJPw",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-mary-pickford-6694911933ea7.webp"
+    },
+    {
+      "name": "Mimosa",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "75 ml",
+          "name": "Freshly Squeezed Orange Juice"
+        },
+        {
+          "amount": "75 ml",
+          "name": "Prosecco"
+        }
+      ],
+      "method": "Pour orange juice into flute glass and gently pour the sparkling wine. Stir gently. **NOTE: **Also known as Buck’s Fizz.",
+      "garnish": "Garnish with orange twist (optional).",
+      "views": "53.0K views",
+      "url": "https://iba-world.com/iba-cocktail/mimosa/",
+      "video_url": "https://www.youtube.com/watch?v=yM9pE3iVkrA",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-mimosa-6695cdc4463c9.webp"
+    },
+    {
+      "name": "Mint Julep",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "60 ml",
+          "name": "Bourbon Whiskey"
+        },
+        {
+          "amount": "",
+          "name": "4 fresh Mint sprigs"
+        },
+        {
+          "amount": "1 tsp",
+          "name": "Powdered Sugar"
+        },
+        {
+          "amount": "2 tsp",
+          "name": "Water"
+        }
+      ],
+      "method": "In Julep Stainless Steel Cup gently muddle the mint with sugar and water. Fill the glass with cracked ice, add the Bourbon and stir well until the cup frosts.",
+      "garnish": "Garnish with a mint sprig.",
+      "views": "39.9K views",
+      "url": "https://iba-world.com/iba-cocktail/mint-julep/",
+      "video_url": "https://www.youtube.com/watch?v=w9p3sedBLYk",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-mint-julep-6695cdc4aa398.webp"
+    },
+    {
+      "name": "Missionary's Downfall",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "White rum"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Peach Brandy"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh lime juice"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Honey Mix"
+        },
+        {
+          "amount": "",
+          "name": "10 pcs Mint Leaves"
+        },
+        {
+          "amount": "",
+          "name": "3 to 4 pcs Pineapple Chunks"
+        }
+      ],
+      "method": "Blend all the ingredients with half cup of crushed ice. Serve it in a Coppa grande.",
+      "garnish": "Garnish with mint sprig and a slice of pineapple.",
+      "views": "45.1K views",
+      "url": "https://iba-world.com/iba-cocktail/missionarys-downfall/",
+      "video_url": null,
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-missionarys-downfall-6695d3ab4d4c5.webp"
+    },
+    {
+      "name": "Mojito",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "White Cuban Ron"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Fresh Lime Juice"
+        },
+        {
+          "amount": "",
+          "name": "6 pcs Mint Sprigs"
+        },
+        {
+          "amount": "2 tsp",
+          "name": "White Cane Sugar"
+        },
+        {
+          "amount": "",
+          "name": "Soda Water"
+        }
+      ],
+      "method": "Mix mint springs with sugar and lime juice. Add splash of soda water and fill the glass with ice. Pour the rum and top with soda water. Light stir to involve all ingredients.",
+      "garnish": "Garnish with sprigs of mint and slice of lime.",
+      "views": "101.2K views",
+      "url": "https://iba-world.com/iba-cocktail/mojito/",
+      "video_url": "https://www.youtube.com/watch?v=Mgw_nE1ZQsE",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-mojito-6695cdc755626.webp"
+    },
+    {
+      "name": "Monkey Gland",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Dry Gin"
+        },
+        {
+          "amount": "45 ml",
+          "name": "Fresh Orange Juice"
+        },
+        {
+          "amount": "",
+          "name": "1 Tablespoon Absinthe"
+        },
+        {
+          "amount": "",
+          "name": "1 Tablespoon Grenadine Syrup"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+      "garnish": "N/A",
+      "views": "50.6K views",
+      "url": "https://iba-world.com/iba-cocktail/monkey-gland/",
+      "video_url": "https://www.youtube.com/watch?v=TAMplkSDD6g",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-monkey-gland-6694911cbf5a2.webp"
+    },
+    {
+      "name": "Moscow Mule",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Smirnoff Vodka"
+        },
+        {
+          "amount": "120 ml",
+          "name": "Ginger Beer"
+        },
+        {
+          "amount": "10 ml",
+          "name": "Fresh lime juice"
+        }
+      ],
+      "method": "In an Mule Cup or rocks glass, combine the vodka and ginger beer. Add lime juice and gently stir to involve all ingredients.",
+      "garnish": "Garnish with a lime slice.",
+      "views": "81.9K views",
+      "url": "https://iba-world.com/iba-cocktail/moscow-mule/",
+      "video_url": "https://www.youtube.com/watch?v=mCD3QBnDTHg",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-moscow-mule-6695cdc7d8cb2.webp"
+    },
+    {
+      "name": "Naked and Famous",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "22.5 ml",
+          "name": "Mezcal"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Yellow Chartreuse"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Aperol"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Fresh Lime Juice"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+      "garnish": "N/A",
+      "views": "57.5K views",
+      "url": "https://iba-world.com/iba-cocktail/naked-and-famous/",
+      "video_url": "https://www.youtube.com/watch?v=9MoiuEUlp7o",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-naked-and-famous-6695d3ae8e1dc.webp"
+    },
+    {
+      "name": "Negroni",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Bitter Campari"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Sweet Red Vermouth"
+        }
+      ],
+      "method": "Pour all ingredients directly into chilled old fashioned glass filled with ice. Stir gently.",
+      "garnish": "Garnish with half orange slice.",
+      "views": "87.6K views",
+      "url": "https://iba-world.com/iba-cocktail/negroni/",
+      "video_url": "https://www.youtube.com/watch?v=_bcC-cRWP4I",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-negroni-6694911cc3b65.webp"
+    },
+    {
+      "name": "New York Sour",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "60 ml",
+          "name": "Rye Whiskey or Bourbon"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Simple syrup"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Fresh lemon juice"
+        },
+        {
+          "amount": "Few Drops",
+          "name": "of Egg White"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Red wine (Shiraz or Malbech)"
+        }
+      ],
+      "method": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled rocks glass filled with ice. Float the wine on top.",
+      "garnish": "Garnish with lemon or orange zest with cherry.",
+      "views": "53.4K views",
+      "url": "https://iba-world.com/iba-cocktail/new-york-sour/",
+      "video_url": "https://www.youtube.com/watch?v=JdQXePtlyk0",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-new-york-sour-6695d3ae88cd2.webp"
+    },
+    {
+      "name": "Old Cuban",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "",
+          "name": "6/8 pcs Mint Leaves"
+        },
+        {
+          "amount": "45 ml",
+          "name": "Aged Rum"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Fresh Lime Juice"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Simple Syrup"
+        },
+        {
+          "amount": "",
+          "name": "2 Dashes Angostura Bitters"
+        },
+        {
+          "amount": "60 ml",
+          "name": "Brut Champagne or Prosecco"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker except the wine, shake well with ice, strain into chilled elegant cocktail glass. Top up with the sparkling wine.",
+      "garnish": "Garnish with mint springs.",
+      "views": "43.3K views",
+      "url": "https://iba-world.com/iba-cocktail/old-cuban/",
+      "video_url": "https://www.youtube.com/watch?v=lsamLijmRwg",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-old-cuban-6695d3b18c692.webp"
+    },
+    {
+      "name": "Old Fashioned",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Bourbon or Rye Whiskey"
+        },
+        {
+          "amount": "",
+          "name": "1 Sugar Cube"
+        },
+        {
+          "amount": "Few Dashes",
+          "name": "Angostura Bitters"
+        },
+        {
+          "amount": "Few Dashes",
+          "name": "Plain Water"
+        }
+      ],
+      "method": "Place sugar cube in old fashioned glass and saturate with bitter, add few dashes of plain water. Muddle until dissolved. Fill the glass with ice cubes and add whiskey. Stir gently.",
+      "garnish": "Garnish with orange slice or zest, and a cocktail cherry.",
+      "views": "101.3K views",
+      "url": "https://iba-world.com/iba-cocktail/old-fashioned/",
+      "video_url": "https://www.youtube.com/watch?v=HVb0H2jd-8M",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-old-fashioned-6694911fce360.webp"
+    },
+    {
+      "name": "Paloma",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "50 ml",
+          "name": "100% Agave Tequila"
+        },
+        {
+          "amount": "5 ml",
+          "name": "Fresh lime"
+        },
+        {
+          "amount": "A pinch of",
+          "name": "Salt"
+        },
+        {
+          "amount": "100 ml",
+          "name": "Pink Grapefruit Soda"
+        }
+      ],
+      "method": "Poor the tequila into a highball glass, squeeze the lime juice. Add ice and salt, fill up pink grapefruit soda. Stir gently.",
+      "garnish": "Garnish with a slice of lime.",
+      "views": "79.1K views",
+      "url": "https://iba-world.com/iba-cocktail/paloma/",
+      "video_url": null,
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-paloma-6695d3b19cda4.webp"
+    },
+    {
+      "name": "Paper Plane",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "Bourbon Whiskey"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Amaro Nonino"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Aperol"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Fresh Lemon Juice"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+      "garnish": "N/A",
+      "views": "70.1K views",
+      "url": "https://iba-world.com/iba-cocktail/paper-plane/",
+      "video_url": "https://www.youtube.com/watch?v=8Mh7eE9aJgI",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-paper-plane-6695d3b4745eb.webp"
+    },
+    {
+      "name": "Paradise",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Apricot Brandy"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Orange Juice"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+      "garnish": "N/A",
+      "views": "39.9K views",
+      "url": "https://iba-world.com/iba-cocktail/paradise/",
+      "video_url": "https://www.youtube.com/watch?v=qjabUbNBasQ",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-paradise-6694911fdbd4b.webp"
+    },
+    {
+      "name": "Penicillin",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "60 ml",
+          "name": "Blended scotch whisky"
+        },
+        {
+          "amount": "7.5 ml",
+          "name": "Lagavulin 16y"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Fresh lemon juice"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Honey syrup"
+        },
+        {
+          "amount": "",
+          "name": "2-3 quarter size sliced fresh ginger"
+        }
+      ],
+      "method": "Muddle fresh ginger in a shaker and add the remaining ingredients except for the Islay single malt whisky. Fill the shaker with ice and shake. Fine train into a chilled Old Fashioned glass with ice. Float the single malt whisky on top.",
+      "garnish": "Garnish with candied ginger slices.",
+      "views": "59.1K views",
+      "url": "https://iba-world.com/iba-cocktail/penicillin/",
+      "video_url": "https://www.youtube.com/watch?v=crswfLbasVE",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-penicillin-6695d3b47b79f.webp"
+    },
+    {
+      "name": "Pina Colada",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "50 ml",
+          "name": "White Rum"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Coconut Cream"
+        },
+        {
+          "amount": "50 ml",
+          "name": "Fresh Pineapple Juice"
+        }
+      ],
+      "method": "Blend all the ingredients with ice in a electric blender, pour into a large glass and serve with straws. **Note: **Historically a few drops of fresh lime juice was added to taste. 4 slices of fresh pineapple can be used instead of juice",
+      "garnish": "Garnish with a slice of pineapple with a cocktail cherry.",
+      "views": "90.9K views",
+      "url": "https://iba-world.com/iba-cocktail/pina-colada/",
+      "video_url": "https://www.youtube.com/watch?v=Q60iH34gBRw",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-pina-colada-6695cdcabbf00.webp"
+    },
+    {
+      "name": "Pisco Punch",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "60 ml",
+          "name": "Pisco"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Fresh Pineapple Juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Simple Syrup"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Dry White Wine"
+        },
+        {
+          "amount": "",
+          "name": "3 pcs Cloves"
+        }
+      ],
+      "method": "Gentle mash the simple syrup with the cloves, add the remaining ingredients except the wine. Shake vigorously and double strain into a large goblet. Add the wine on top and gently stir.",
+      "garnish": "N/A",
+      "views": "42.7K views",
+      "url": "https://iba-world.com/iba-cocktail/pisco-punch/",
+      "video_url": "https://www.youtube.com/watch?v=IAlnS-P2154",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-pisco-punch-6695d3b74b9f5.webp"
+    },
+    {
+      "name": "Pisco Sour",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "60 ml",
+          "name": "Pisco"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Simple Syrup"
+        },
+        {
+          "amount": "",
+          "name": "1 Raw whole Egg White"
+        }
+      ],
+      "method": "Add all ingredients into a shaker with ice. Shake and strain into a chilled goblet glass.",
+      "garnish": "Few dashes of Amargo bitters on top as an aromatic garnish.",
+      "views": "40.5K views",
+      "url": "https://iba-world.com/iba-cocktail/pisco-sour/",
+      "video_url": "https://www.youtube.com/watch?v=fZXODSVdRd0",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-pisco-sour-6695cdcaf1122.webp"
+    },
+    {
+      "name": "Planters Punch",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Jamaican Rum"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Lime Juice"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Sugar Cane Juice"
+        }
+      ],
+      "method": "Pour all ingredients directly in a small tumbler or a typical terracotta glass. **NOTE: **Add dilution up to taste, it can be given by water, ice or fresh juices.",
+      "garnish": "Garnish with orange zest.",
+      "views": "45.1K views",
+      "url": "https://iba-world.com/iba-cocktail/planters-punch/",
+      "video_url": "https://www.youtube.com/watch?v=9nHk23V2jqk",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-planters-punch-66949122d41fb.webp"
+    },
+    {
+      "name": "Porn Star Martini",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "50 ml",
+          "name": "Vanilla Vodka"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Passion Fruit Liqueur"
+        },
+        {
+          "amount": "50 ml",
+          "name": "Passion Fruit Puree"
+        },
+        {
+          "amount": "",
+          "name": "2 Bar Spoons Vanilla Sugar"
+        },
+        {
+          "amount": "50 ml",
+          "name": "Champagne to serve on the side"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker, shake well with ice, double strain into a large chilled cocktail glass. Accompany with a shot of champagne.",
+      "garnish": "Garnish with passion fruit cup and sugar.",
+      "views": "713.6K views",
+      "url": "https://iba-world.com/iba-cocktail/porn-star-martini/",
+      "video_url": "https://www.youtube.com/watch?v=CRGiSLWy5AI",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-porn-star-martini-6695d3b771b97.webp"
+    },
+    {
+      "name": "Porto Flip",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "15 ml",
+          "name": "Brandy"
+        },
+        {
+          "amount": "45 ml",
+          "name": "Red Tawny Port Wine"
+        },
+        {
+          "amount": "10 ml",
+          "name": "Egg Yolk"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+      "garnish": "Sprinkle with fresh ground nutmeg.",
+      "views": "48.2K views",
+      "url": "https://iba-world.com/iba-cocktail/porto-flip/",
+      "video_url": "https://www.youtube.com/watch?v=pdn5KZWZbUY",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-porto-flip-669491230cea4.webp"
+    },
+    {
+      "name": "Rabo de Galo",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "60 ml",
+          "name": "Cachaca"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Sweet Vermouth Cinzano Rosso"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Cynar"
+        },
+        {
+          "amount": "",
+          "name": "2 Drops Angostura (Optional)"
+        }
+      ],
+      "method": "Combine all the ingredients into a rocks glass, add ice and stir briefly.",
+      "garnish": "Garnish with a orange twist.",
+      "views": "38.1K views",
+      "url": "https://iba-world.com/iba-cocktail/rabo-de-galo/",
+      "video_url": "https://www.youtube.com/watch?v=XZnkEPB2n1c",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-rabo-de-galo-6695cdcdb2df1.webp"
+    },
+    {
+      "name": "Ramos Fizz",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Lime Juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Sugar Syrup"
+        },
+        {
+          "amount": "60 ml",
+          "name": "Cream"
+        },
+        {
+          "amount": "30ml",
+          "name": "Egg white"
+        },
+        {
+          "amount": "",
+          "name": "3 Dashes Orange Flower Water"
+        },
+        {
+          "amount": "",
+          "name": "2 Drops Vanilla Extract"
+        },
+        {
+          "amount": "",
+          "name": "Soda Water"
+        }
+      ],
+      "method": "Pour all ingredients except soda water in a cocktail shaker with ice. Shake for two minutes, double strain in a glass, pour the drink back in the shaker and hard shake without ice for one minute. Strain into a highball glass, top up with soda. **NOTE: **The drink was invented by Henry Ramos in 1888, at his bar Meyer’s Table d’Hôtel Internationale in New Orleans. The Ramos Fizz was originally shaken for 12 minutes by a crew of 30 bartenders who passed the shaker from one to another.",
+      "garnish": "N/A",
+      "views": "48.6K views",
+      "url": "https://iba-world.com/iba-cocktail/ramos-fizz/",
+      "video_url": "https://www.youtube.com/watch?v=2qt-8MLADkA",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-ramos-fizz-669491260ca6c.webp"
+    },
+    {
+      "name": "Remember the Maine",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "60 ml",
+          "name": "Rye Whiskey"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Sweet Vermouth"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Cherry Brandy Luxardo"
+        },
+        {
+          "amount": "7.5 ml",
+          "name": "Absinthe"
+        }
+      ],
+      "method": "Pour the absinthe into a coupe glass and swirl to completely coat the inside. Discard the absinthe and set the glass aside. Add the other ingredients to a mixing glass and fill it 3/4 full with ice. Stir until chilled, then strain into the glass rinsed with the absinthe.",
+      "garnish": "Garnish with lemon zest.",
+      "views": "39.4K views",
+      "url": "https://iba-world.com/iba-cocktail/remember-the-maine/",
+      "video_url": "https://www.youtube.com/watch?v=GNzbV264mQU",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-remember-the-main-6694912622959.webp"
+    },
+    {
+      "name": "Russian Spring Punch",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "25 ml",
+          "name": "Vodka"
+        },
+        {
+          "amount": "25 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Creme de Cassis"
+        },
+        {
+          "amount": "10 ml",
+          "name": "Sugar Syrup"
+        },
+        {
+          "amount": "",
+          "name": "Top up with Sparkling Wine"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker except the sparkling wine, shake well with ice, strain into chilled tall tumbler glass filled with ice and top up with sparkling wine.",
+      "garnish": "Garnish with blackberries and optionally a lemon slice as well.",
+      "views": "42.8K views",
+      "url": "https://iba-world.com/iba-cocktail/russian-spring-punch/",
+      "video_url": "https://www.youtube.com/watch?v=FqUbUqPgA9s",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-russian-spring-punch-6695d3ba314f1.webp"
+    },
+    {
+      "name": "Rusty Nail",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Scotch Whisky"
+        },
+        {
+          "amount": "25 ml",
+          "name": "Drambuie"
+        }
+      ],
+      "method": "Pour all ingredients directly into an old fashioned glass filled with ice. Stir gently.",
+      "garnish": "Garnish with lemon zest.",
+      "views": "39.9K views",
+      "url": "https://iba-world.com/iba-cocktail/rusty-nail/",
+      "video_url": "https://www.youtube.com/watch?v=gfgk7cwNoGk",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-rusty-nail-66949129acfd1.webp"
+    },
+    {
+      "name": "Sazerac",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "50 ml",
+          "name": "Cognac"
+        },
+        {
+          "amount": "10 ml",
+          "name": "Absinthe"
+        },
+        {
+          "amount": "",
+          "name": "1 Sugar Cube"
+        },
+        {
+          "amount": "",
+          "name": "2 Dashes Peychaud’s Bitters"
+        }
+      ],
+      "method": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside. Stir the remaining ingredients over ice in a mixing glass. Discard the ice and any excess absinthe from the prepared glass, strain the mixed drink into the glass. **NOTE: **The original recipe changed after the American Civil War, Rye Whiskey substituted Cognac as it became hard to obtain.",
+      "garnish": "Garnish with lemon zest.",
+      "views": "58.2K views",
+      "url": "https://iba-world.com/iba-cocktail/sazerac/",
+      "video_url": "https://www.youtube.com/watch?v=YhX3pwiDyeU",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-sazerac-66949129b50d1.webp"
+    },
+    {
+      "name": "Sea Breeze",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "40 ml",
+          "name": "Vodka"
+        },
+        {
+          "amount": "120 ml",
+          "name": "Cranberry Juice"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Grapefruit Juice"
+        }
+      ],
+      "method": "Build all ingredients in a highball glass filled with ice.",
+      "garnish": "Garnish with an orange zest and cherry.",
+      "views": "39.6K views",
+      "url": "https://iba-world.com/iba-cocktail/sea-breeze/",
+      "video_url": "https://www.youtube.com/watch?v=A6jBgspcTKk",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-sea-breeze-6695cdce015a8.webp"
+    },
+    {
+      "name": "Sex on the Beach",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "40 ml",
+          "name": "Vodka"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Peach Schnapps"
+        },
+        {
+          "amount": "40 ml",
+          "name": "Fresh Orange Juice"
+        },
+        {
+          "amount": "40 ml",
+          "name": "Cranberry Juice"
+        }
+      ],
+      "method": "Build all ingredients in a highball glass filled with ice.",
+      "garnish": "Garnish with half orange slice.",
+      "views": "252.3K views",
+      "url": "https://iba-world.com/iba-cocktail/sex-on-the-beach/",
+      "video_url": "https://www.youtube.com/watch?v=MjVMECfzTk4",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-sex-on-the-beach-6695cdd0aecf3.webp"
+    },
+    {
+      "name": "Sherry Cobbler",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Amontillado sherry"
+        },
+        {
+          "amount": "45 ml",
+          "name": "Palo Cortado"
+        },
+        {
+          "amount": "1 tsp",
+          "name": "Superfine Sugar (or granulated)"
+        },
+        {
+          "amount": "",
+          "name": "1/2 Orange Wheel"
+        },
+        {
+          "amount": "",
+          "name": "1/2 Lemon Wheel"
+        }
+      ],
+      "method": "Combine sherry, sugar and 2 quarter wheels each of orange and lemon in a shaker with ice, shake briskly, strain into a Julep cocktail cup filled with crushed ice.",
+      "garnish": "Garnish with fresh berries, ¼ wheel each orange and lemon. Serve with straws.",
+      "views": "36.9K views",
+      "url": "https://iba-world.com/iba-cocktail/sherry-cobbler/",
+      "video_url": "https://www.youtube.com/watch?v=yfKDXsfmWlU",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-sherry-cobbler-6695d3ba8bdb7.webp"
+    },
+    {
+      "name": "Sidecar",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "50 ml",
+          "name": "Cognac"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Triple Sec"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Fresh Lemon Juice"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+      "garnish": "N/A",
+      "views": "68.0K views",
+      "url": "https://iba-world.com/iba-cocktail/sidecar/",
+      "video_url": "https://www.youtube.com/watch?v=9HvcVECK2YY",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-sidecar-6694912cb8aa9.webp"
+    },
+    {
+      "name": "Singapore Sling",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Cherry Sangue Morlacco"
+        },
+        {
+          "amount": "7.5 ml",
+          "name": "Cointreau"
+        },
+        {
+          "amount": "7.5 ml",
+          "name": "DOM Bénédictine"
+        },
+        {
+          "amount": "120 ml",
+          "name": "Fresh Pineapple Juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Lime Juice"
+        },
+        {
+          "amount": "10 ml",
+          "name": "Grenadine Syrup"
+        },
+        {
+          "amount": "A dash of",
+          "name": "Angostura bitters"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into Hurricane glass.",
+      "garnish": "Garnish with pineapple and maraschino cherry.",
+      "views": "50.0K views",
+      "url": "https://iba-world.com/iba-cocktail/singapore-sling/",
+      "video_url": "https://www.youtube.com/watch?v=o1ocGgiokLg",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-singapore-sling-6695cdd136426.webp"
+    },
+    {
+      "name": "South Side",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "60 ml",
+          "name": "London dry Gin"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Simple syrup"
+        },
+        {
+          "amount": "",
+          "name": "5/6 Mint leaves"
+        },
+        {
+          "amount": "Few drops",
+          "name": "Egg white (Optional)"
+        }
+      ],
+      "method": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass. **Note: **If egg white is used shake vigorously.",
+      "garnish": "Garnish with mint springs.",
+      "views": "54.3K views",
+      "url": "https://iba-world.com/iba-cocktail/south-side/",
+      "video_url": "https://www.youtube.com/watch?v=7fJLXevYNq0",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-south-side-6695d3bdcc9fe.webp"
+    },
+    {
+      "name": "Spicy Fifty",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "50 ml",
+          "name": "Vodka Vanilla"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Elderflower Cordial"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Lime Juice"
+        },
+        {
+          "amount": "10 ml",
+          "name": "Monin Honey Syrup"
+        },
+        {
+          "amount": "",
+          "name": "2 thin Slices Red Chili Pepper"
+        }
+      ],
+      "method": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
+      "garnish": "Garnish with a red chili pepper.",
+      "views": "38.9K views",
+      "url": "https://iba-world.com/iba-cocktail/spicy-fifty/",
+      "video_url": "https://www.youtube.com/watch?v=-9Cde74HQhM",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-spicy-fifty-6695d3bdd14b1.webp"
+    },
+    {
+      "name": "Spritz",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "90 ml",
+          "name": "Prosecco"
+        },
+        {
+          "amount": "60 ml",
+          "name": "Aperol"
+        },
+        {
+          "amount": "",
+          "name": "Splash of Soda water"
+        }
+      ],
+      "method": "Build all ingredients into a wine glass filled with ice. Stir gently. **NOTE: **There are other versions of the Spritz that use Campari, Cynar or Select instead of Aperol.",
+      "garnish": "Garnish with a slice of orange.",
+      "views": "75.5K views",
+      "url": "https://iba-world.com/iba-cocktail/spritz/",
+      "video_url": "https://www.youtube.com/watch?v=CN-0_jiv2Bc",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-spritz-6695d3c0f113f.webp"
+    },
+    {
+      "name": "Stinger",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "50 ml",
+          "name": "Cognac"
+        },
+        {
+          "amount": "20 ml",
+          "name": "White Crème de Menthe"
+        }
+      ],
+      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+      "garnish": "Optional mint leave.",
+      "views": "40.1K views",
+      "url": "https://iba-world.com/iba-cocktail/stinger/",
+      "video_url": "https://www.youtube.com/watch?v=iWZdXL8tNoc",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-stinger-6694912ce0b8d.webp"
+    },
+    {
+      "name": "Suffering Bastard",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "Cognac or Brandy"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Lime Juice"
+        },
+        {
+          "amount": "",
+          "name": "2 Dashes Angostura Bitters"
+        },
+        {
+          "amount": "",
+          "name": "Top up Ginger beer"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker except the ginger beer, shake well with ice. Pour unstrained into a Collins glass or in the original. S. Bastard mug and top up with ginger beer.",
+      "garnish": "Garnish with mint spring and optionally an orange slice as well.",
+      "views": "49.0K views",
+      "url": "https://iba-world.com/iba-cocktail/suffering-bastard/",
+      "video_url": "https://www.youtube.com/watch?v=B4xoYv-0B_M",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-suffering-bastard-6695d3c1081c4.webp"
+    },
+    {
+      "name": "Tequila Sunrise",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Tequila"
+        },
+        {
+          "amount": "90 ml",
+          "name": "Fresh Orange Juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Grenadine Syrup"
+        }
+      ],
+      "method": "Pour tequila and orange juice directly into highball glass filled with ice cubes. Add the grenadine syrup to create chromatic effect (sunrise), do not stir.",
+      "garnish": "Garnish with half orange slice or an orange zest.",
+      "views": "63.3K views",
+      "url": "https://iba-world.com/iba-cocktail/tequila-sunrise/",
+      "video_url": "https://www.youtube.com/watch?v=rZr5O1_fMoM",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-tequila-sunrise-6695cdd3da10a.webp"
+    },
+    {
+      "name": "Three Dots and a Dash",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Rhum Martinique Agricole"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Blended Aged Rum"
+        },
+        {
+          "amount": "7.5 ml",
+          "name": "Falernum"
+        },
+        {
+          "amount": "7.5 ml",
+          "name": "Allspice Saint Elizabeth15 ml Fresh Lime Juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Fresh Orange juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Honey Syrup"
+        },
+        {
+          "amount": "",
+          "name": "2 Dashes Angostura Bitters"
+        }
+      ],
+      "method": "Pour all ingredients in a Blender with 12 ounces of crushed ice, flash blend, pour the drink into a footed copo glass. Fill the glass with more crushed ice.",
+      "garnish": "Garnish with three cherries and a rectangular chunk of pineapple.",
+      "views": "44.8K views",
+      "url": "https://iba-world.com/iba-cocktail/three-dots-and-a-dash/",
+      "video_url": "https://www.youtube.com/watch?v=KDufx7oLq8o",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-three-dots-and-a-dash-6695d3c3e2d24.webp"
+    },
+    {
+      "name": "Tipperary",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "50 ml",
+          "name": "Irish Whiskey"
+        },
+        {
+          "amount": "25 ml",
+          "name": "Sweet Red Vermouth"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Green Chartreuse"
+        },
+        {
+          "amount": "",
+          "name": "2 Dashes Angostura Bitters"
+        }
+      ],
+      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+      "garnish": "Garnish with a slice of orange.",
+      "views": "37.4K views",
+      "url": "https://iba-world.com/iba-cocktail/tipperary/",
+      "video_url": "https://www.youtube.com/watch?v=nGuLrgl441Q",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-tipperary-6695d3c453fd3.webp"
+    },
+    {
+      "name": "Tommy's Margarita",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "60 ml",
+          "name": "Tequila 100% agave"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Fresh Lime Juice"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Agave Nectar"
+        }
+      ],
+      "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled rocks glass filled with ice.",
+      "garnish": "Garnish with a lime slice.",
+      "views": "57.3K views",
+      "url": "https://iba-world.com/iba-cocktail/tommys-margarita/",
+      "video_url": "https://www.youtube.com/watch?v=-O_6Ae89RWU",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-tommys-margarita-6695d3c7171ef.webp"
+    },
+    {
+      "name": "Trinidad Sour",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Angostura Bitters"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Orgeat Syrup"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Rye Whiskey"
+        }
+      ],
+      "method": "Pour all ingredients into a cocktail shaker, shake well with ice. Strain into chilled cocktail glass.",
+      "garnish": "N/A",
+      "views": "38.5K views",
+      "url": "https://iba-world.com/iba-cocktail/trinidad-sour/",
+      "video_url": "https://www.youtube.com/watch?v=4STs4YyOw90",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-trinidad-sour-6695d3c794a43.webp"
+    },
+    {
+      "name": "Tuxedo",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "Old Tom Gin"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Dry Vermouth"
+        },
+        {
+          "amount": "",
+          "name": "1/2 Bar Spoon Maraschino Luxardo"
+        },
+        {
+          "amount": "",
+          "name": "1/4 Bar Spoon of Absinthe"
+        },
+        {
+          "amount": "",
+          "name": "3 Dashes Orange Bitters"
+        }
+      ],
+      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+      "garnish": "Garnish with cherry and lemon zest.",
+      "views": "43.9K views",
+      "url": "https://iba-world.com/iba-cocktail/tuxedo/",
+      "video_url": "https://www.youtube.com/watch?v=mwQ2elGVlEI",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-tuxedo-6694912fd3b8f.webp"
+    },
+    {
+      "name": "Ve.N.To",
+      "category": "New Era",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "White Smooth Grappa"
+        },
+        {
+          "amount": "22.5 ml",
+          "name": "Fresh lemon Juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Honey mix (replace water with chamomile)*"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Chamomile cordial"
+        },
+        {
+          "amount": "Few Drops",
+          "name": "of Egg White (Optional)"
+        }
+      ],
+      "method": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled small tumbler glass filled with ice. **NOTE: ***If desired water can be replaced by chamomile infusion in the honey mix.",
+      "garnish": "Garnish with lemon zest and white grapes.",
+      "views": "39.8K views",
+      "url": "https://iba-world.com/iba-cocktail/ve-n-to/",
+      "video_url": null,
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-new-era-vento-6695d3ca45bc2.webp"
+    },
+    {
+      "name": "Vesper",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Vodka"
+        },
+        {
+          "amount": "7.5 ml",
+          "name": "Lillet Blanc"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+      "garnish": "Garnish with lemon zest.",
+      "views": "58.3K views",
+      "url": "https://iba-world.com/iba-cocktail/vesper/",
+      "video_url": "https://www.youtube.com/watch?v=aqG4EssJ1uw",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-vesper-6695cdd43284b.webp"
+    },
+    {
+      "name": "Vieux Carré",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "30 ml",
+          "name": "Rye Whiskey"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Cognac"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Sweet Vermouth"
+        },
+        {
+          "amount": "",
+          "name": "1 Bar Spoon Bénédictine"
+        },
+        {
+          "amount": "",
+          "name": "2 Dashes Peychaud’s Bitters"
+        }
+      ],
+      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+      "garnish": "Garnish with orange zest and maraschino cherry.",
+      "views": "42.2K views",
+      "url": "https://iba-world.com/iba-cocktail/vieux-carre/",
+      "video_url": "https://www.youtube.com/watch?v=xt0VCxOKims",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-vieux-carre-6694913015248.webp"
+    },
+    {
+      "name": "Whiskey Sour",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Bourbon Whiskey"
+        },
+        {
+          "amount": "25 ml",
+          "name": "Fresh Lemon Juice"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Sugar Syrup"
+        },
+        {
+          "amount": "Few Drops",
+          "name": "of Egg White (Optional)"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker filled with ice. Shake well. Strain into cobbler glass. If served “On the rocks”, strain ingredients into old fashioned glass filled with ice. **NOTE: **If egg white is used shake little harder to release and incorporate the foam from the egg white.",
+      "garnish": "Garnish with half orange slice and maraschino cherry, optionally use orange zest.",
+      "views": "90.9K views",
+      "url": "https://iba-world.com/iba-cocktail/whiskey-sour/",
+      "video_url": "https://www.youtube.com/watch?v=TAtL-m4iQw0",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-whiskey-sour-66949132e6ae9.webp"
+    },
+    {
+      "name": "White Lady",
+      "category": "The unforgettables",
+      "ingredients": [
+        {
+          "amount": "40 ml",
+          "name": "Gin"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Triple Sec"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Fresh Lemon Juice"
+        }
+      ],
+      "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+      "garnish": "N/A",
+      "views": "66.3K views",
+      "url": "https://iba-world.com/iba-cocktail/white-lady/",
+      "video_url": "https://www.youtube.com/watch?v=tpSNeD45HTY",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-the-unforgettables-white-lady-6694913318105.webp"
+    },
+    {
+      "name": "Zombie",
+      "category": "Contemporary Classics",
+      "ingredients": [
+        {
+          "amount": "45 ml",
+          "name": "Jamaican dark rum"
+        },
+        {
+          "amount": "45 ml",
+          "name": "Gold Puerto Rican rum"
+        },
+        {
+          "amount": "30 ml",
+          "name": "Demerara Rum"
+        },
+        {
+          "amount": "20 ml",
+          "name": "Fresh lime juice"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Falernum"
+        },
+        {
+          "amount": "15 ml",
+          "name": "Donn’s Mix*"
+        },
+        {
+          "amount": "1 tsp",
+          "name": "Grenadine syrup"
+        },
+        {
+          "amount": "1 dash",
+          "name": "Angostura bitters"
+        },
+        {
+          "amount": "",
+          "name": "6 drops Pernod"
+        }
+      ],
+      "method": "Add all ingredients into an electric blender with 170 grams of cracked ice. With pulse bottom blend for a few seconds. Serve in a tall tumbler glass. **Note: ***Donn’s Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup",
+      "garnish": "Garnish with mint leaves.",
+      "views": "60.6K views",
+      "url": "https://iba-world.com/iba-cocktail/zombie/",
+      "video_url": "https://www.youtube.com/watch?v=ApUJ3ZYijJc",
+      "image_url": "https://iba-world.com/wp-content/uploads/2024/07/iba-cocktail-contemporary-classics-zombie-6695cdd6cef05.webp"
+    }
+  ]
+}

@@ -4,7 +4,6 @@
 
 The art of the cocktail is a study in alchemy. A written recipe provides the map, a set of instructions for combining disparate elements into a harmonious whole. Yet, the true character of the journey, the soul of the final creation, is defined not by the map but by the quality of its provisions. The choice of a specific gin, the character of a particular vermouth, the subtle complexities of an aged rum—these are the decisions that elevate a simple mixed drink into a memorable experience. To assemble a home bar of distinction is to curate a library of liquid stories, each bottle a potential protagonist in a classic narrative.  
 This compendium is offered not as a mere list of instructions, but as a curated exploration into the heart of these classic drinks—the spirits themselves. It moves beyond generic categories to recommend specific, carefully chosen bottles that have been lauded by professional bartenders, celebrated by discerning enthusiasts, and verified for availability within the United Kingdom. The methodology is a synthesis of expert opinion from leading spirits publications, consensus from dedicated online communities, and practical, on-the-ground research into the catalogues of major UK supermarkets and specialist retailers. The aim is to empower the ambitious home bartender to build a collection with precision, confidence, and a nuanced understanding of how each spirit contributes to the timeless canon of cocktails.  
----
 
 ## **The Cocktail Compendium**
 

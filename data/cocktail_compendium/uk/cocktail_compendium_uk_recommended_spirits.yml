@@ -1,0 +1,951 @@
+---
+Alexander:
+  Ingredients:
+    Cognac:
+      - Courvoisier VSOP
+      - Pierre Ferrand 1840
+      - St-Rémy VSOP Brandy
+    Crème de Cacao:
+      - Tempus Fugit Crème de Cacao
+      - Bols Crème de Cacao (Brown)
+      - Giffard Crème de Cacao
+Americano:
+  Ingredients:
+    Sweet Vermouth:
+      - Carpano Antica Formula
+      - Cocchi Vermouth Di Torino
+      - Dolin Rouge
+Angel Face:
+  Ingredients:
+    Gin:
+      - No. 3 London Dry Gin
+      - Hayman's London Dry Gin
+      - Beefeater London Dry
+    Apricot Liqueur:
+      - Giffard Abricot du Roussillon
+      - Marie Brizard Apry
+    Calvados:
+      - Christian Drouin 'Sélection'
+      - Château de Breuil VSOP
+      - Berneroy Fine Calvados
+Aviation:
+  Ingredients:
+    Gin:
+      - Cotswolds Dry Gin
+      - Beefeater London Dry
+      - Plymouth Gin
+    Crème de Violette:
+      - Tempus Fugit Liqueur de Violettes
+      - The Bitter Truth Violet Liqueur
+      - Giffard Crème de Violette
+Bee's Knees:
+  Ingredients:
+    Dry Gin:
+      - Kirkjuvagr Beyla Old Tom Gin
+      - Bombay Sapphire
+Bellini:
+  Ingredients:
+    Prosecco:
+      - Nino Franco Rustico Brut
+      - La Marca Prosecco DOC
+      - Sainsbury's TTD Prosecco
+Between the Sheets:
+  Ingredients:
+    White Rum:
+      - Plantation 3 Stars
+      - Bacardi Superior
+    Cognac:
+      - Louis Royer 'Force 53' VSOP
+      - Hennessy V.S.
+      - Courvoisier VS
+    Triple Sec:
+      - Pierre Ferrand Dry Curaçao
+      - Cointreau
+Black Russian:
+  Ingredients:
+    Vodka:
+      - SKYY Vodka
+      - Wild Knight English Vodka
+    Coffee Liqueur:
+      - Mr. Black Cold Brew
+      - Kahlúa Original
+Bloody Mary:
+  Ingredients:
+    Vodka:
+      - Wild Mary Vodka
+      - Black Cow Pure Milk Vodka
+      - Baller Vodka
+Boulevardier:
+  Ingredients:
+    Whiskey:
+      - Rittenhouse Rye (for spicy)
+      - Maker's Mark (for smooth)
+      - Four Roses Small Batch
+    Sweet Vermouth:
+      - Carpano Antica Formula
+      - Cocchi Vermouth Di Torino
+      - Dolin Rouge
+Bramble:
+  Ingredients:
+    Gin:
+      - Hayman's London Dry Gin
+      - Beefeater London Dry
+      - Gordon's London Dry
+    Crème de Mûre:
+      - Giffard Crème de Mûre
+      - Merlet Crème de Mûre
+      - Briottet Crème de Mûre
+Brandy Crusta:
+  Ingredients:
+    Brandy:
+      - Hennessy V.S.O.P.
+      - Hennessy V.S.
+      - Courvoisier VS
+    Curaçao:
+      - Pierre Ferrand Dry Curaçao
+Caipirinha:
+  Ingredients:
+    Cachaça:
+      - Novo Fogo Silver
+      - Leblon Cachaça
+      - Abelha Organic Silver
+Canchanchara:
+  Ingredients:
+    Cuban Rum:
+      - Havana Club 7 Años
+      - Havana Club 3 Años
+Cardinale:
+  Ingredients:
+    Gin:
+      - Hayman's London Dry Gin
+      - Tanqueray London Dry
+      - Beefeater London Dry
+    Dry Vermouth:
+      - Noilly Prat Original Dry
+      - Dolin de Chambéry Dry
+      - Martini & Rossi Extra Dry
+Casino:
+  Ingredients:
+    Gin:
+      - Old Tom Gin
+      - Ransom Old Tom Gin
+      - Hayman's Old Tom Gin
+    Orange Bitters:
+      - Regan's Orange Bitters No. 6
+      - Angostura Orange Bitters
+      - Fee Brothers Orange
+Champagne Cocktail:
+  Ingredients:
+    Sparkling Wine:
+      - Moët & Chandon Brut Impérial
+      - A good quality Crémant
+      - A good quality Cava
+    Cognac:
+      - Hennessy V.S.
+      - Courvoisier VS
+      - St-Rémy VSOP Brandy
+Chartreuse Swizzle:
+  Ingredients:
+    Falernum:
+      - John D. Taylor's Velvet Falernum
+      - Fee Brothers Falernum Syrup
+Clover Club:
+  Ingredients:
+    Gin:
+      - Hayman's London Dry Gin
+      - Beefeater London Dry
+    Raspberry Syrup:
+      - Homemade Syrup
+      - Monin Raspberry Syrup
+Corpse Reviver \#2:
+  Ingredients:
+    Gin:
+      - Plymouth Gin
+      - Beefeater London Dry
+      - Tanqueray London Dry
+    Aromatised Wine:
+      - Tempus Fugit Kina L'Aéro d'Or
+      - Cocchi Americano Bianco
+      - Lillet Blanc
+Cosmopolitan:
+  Ingredients:
+    Citron Vodka:
+      - Ketel One Citroen
+      - Absolut Citron
+Cuba Libre:
+  Ingredients:
+    White Rum:
+      - Havana Club 3 Años
+      - Bacardi Superior
+Daiquiri:
+  Ingredients:
+    White Cuban Rum:
+      - Ron Santiago de Cuba
+      - Havana Club 3 Años
+Dark 'N' Stormy:
+  Ingredients:
+    Rum:
+      - Goslings Black Seal Rum
+      - The Kraken Black Spiced Rum
+    Ginger Beer:
+      - Fever-Tree Premium Ginger Beer
+      - Fentiman's Ginger Beer
+      - Barritt's Ginger Beer
+Don's Special Daiquiri:
+  Ingredients:
+    Gold Jamaican Rum:
+      - Appleton Estate Signature
+      - Rum-Bar Gold
+      - Smith & Cross Traditional Jamaica Rum
+    Cuban Rum:
+      - Havana Club Añejo 3 Años
+      - Plantation 3 Stars
+    Passion Fruit Syrup:
+      - Bristol Syrup Co. Passionfruit Syrup
+      - Reàl Passion Fruit Purée Infused Syrup
+      - Monin Passion Fruit Syrup
+    Honey Syrup:
+      - Homemade (3:1 Ratio)
+      - Giffard Miel (Honey) Syrup
+Dry Martini:
+  Ingredients:
+    Gin:
+      - Beefeater London Dry Gin
+      - Sipsmith London Dry Gin
+      - Plymouth Gin
+    Dry Vermouth:
+      - Dolin Dry Vermouth de Chambéry
+      - Noilly Prat Original Dry
+      - Mancino Secco Vermouth
+Espresso Martini:
+  Ingredients:
+    Vodka:
+      - Ketel One Vodka
+      - Grey Goose Vodka
+      - Belvedere Vodka
+    Kahlúa:
+      - Mr. Black Cold Brew Coffee Liqueur
+      - Borghetti di Vero Caffe Espresso Liqueur
+      - St. George NOLA Coffee Liqueur
+Fernandito:
+  Ingredients:
+    Fernet Branca:
+      - Fernet-Branca
+      - Branca Menta
+      - Luxardo Fernet
+      - Other Amari (Cynar, Amaro Montenegro)
+    Cola:
+      - Coca-Cola Classic
+French 75:
+  Ingredients:
+    Gin:
+      - Tanqueray London Dry Gin
+      - Beefeater London Dry Gin
+      - The Botanist Islay Dry Gin
+    Champagne:
+      - Non-Vintage Brut Champagne (Veuve Clicquot Yellow Label, Taittinger La
+        Française, Moët & Chandon Brut Impérial)
+      - Crémant de Bourgogne
+      - Spanish Cava
+      - Italian Prosecco
+French Connection:
+  Ingredients:
+    Cognac:
+      - Hennessy V.S.O.P Privilège
+      - Rémy Martin V.S.O.P
+      - Courvoisier V.S.O.P
+    Amaretto:
+      - Disaronno Originale
+      - Lazzaroni Amaretto
+      - Luxardo Amaretto di Saschira
+French Martini:
+  Ingredients:
+    Vodka:
+      - Grey Goose Vodka
+      - Ketel One Vodka
+      - Smirnoff No. 21 Vodka
+    Raspberry Liqueur:
+      - Chambord Black Raspberry Liqueur
+      - St. George Raspberry Liqueur
+      - Giffard Crème de Framboise
+      - Giffard Crème de Mûre (Blackberry Liqueur)
+Garibaldi:
+  Ingredients:
+    Bitter Campari:
+      - Campari
+      - Aperol
+      - Amaro Santoni
+      - The Spirit of Milano (Non-Alcoholic)
+    Freshly Squeezed Orange Juice:
+      - Valencia Oranges
+      - Blood Oranges
+Gin Basil Smash:
+  Ingredients:
+    Gin:
+      - Hendrick's Gin
+      - Gin Mare
+      - Hayman's London Dry Gin
+Gin Fizz:
+  Ingredients:
+    Gin:
+      - Beefeater London Dry Gin
+      - Hayman's Old Tom
+      - Barr Hill Gin
+Grand Margarita:
+  Ingredients:
+    Tequila 100% agave:
+      - Patrón Reposado
+      - Espolòn Blanco
+      - Olmeca Altos Plata
+    Grand Marnier:
+      - Grand Marnier Cordon Rouge
+      - Cointreau
+      - Pierre Ferrand Dry Curaçao
+Grasshopper:
+  Ingredients:
+    Crème de Cacao (White):
+      - Giffard Crème de Cacao Blanc
+      - De Kuyper Crème de Cacao White
+      - Tempus Fugit Crème de Cacao à la Vanille
+    Crème de Menthe (Green):
+      - Giffard Crème de Menthe Verte
+      - De Kuyper Crème de Menthe Green
+      - Bramley & Gage Crème de Menthe
+Hanky Panky:
+  Ingredients:
+    London Dry Gin:
+      - Tanqueray London Dry Gin
+      - Beefeater London Dry Gin
+      - Sipsmith London Dry Gin
+    Sweet Red Vermouth:
+      - Carpano Antica Formula
+      - Cocchi Vermouth di Torino
+      - Dolin Vermouth Rouge
+    Fernet:
+      - Fernet-Branca
+Hemingway Special:
+  Ingredients:
+    Rum:
+      - Havana Club Añejo 3 Años
+      - Plantation 3 Stars
+      - Hamilton White 'Stache
+    Maraschino Luxardo:
+      - Luxardo Maraschino Originale
+Horse’s Neck:
+  Ingredients:
+    Cognac:
+      - Hennessy V.S.O.P Privilège
+      - Courvoisier V.S.
+      - Normandin-Mercier Petite Champagne Cognac VSOP
+    Ginger Ale:
+      - Fever-Tree Premium Ginger Ale
+      - Schweppes Ginger Ale
+      - Thomas Henry Ginger Ale
+    Angostura Bitters (optional):
+      - Angostura Aromatic Bitters
+IBA Tiki:
+  Ingredients:
+    Ron Profundo Havana Club:
+      - Havana Club Añejo 7 Años
+      - Havana Club Selección de Maestros
+    Ron Smoky Havana Club:
+      - Havana Club Cuban Smoky (or DIY with Havana Club 7 Años + Laphroaig 10
+        Year Old/Ardbeg 10 Year Old)
+      - Renegade Rum Pre-Cask Dunfermline Column Still
+    Licor Amaretto:
+      - Disaronno Originale
+      - Lazzaroni Amaretto
+    Licor Frangelico:
+      - Frangelico
+    Maraschino Luxardo:
+      - Luxardo Maraschino Originale
+Illegal:
+  Ingredients:
+    Espadin Mezcal:
+      - Ilegal Mezcal Joven
+      - Del Maguey Vida
+      - Montelobos Espadín Joven
+    Jamaica Overproof White Rum:
+      - Wray & Nephew White Overproof Rum
+    Falernum:
+      - John D. Taylor's Velvet Falernum
+      - B.G. Reynolds Falernum Syrup
+    Maraschino Luxardo:
+      - Luxardo Maraschino Originale
+Irish Coffee:
+  Ingredients:
+    Irish Whiskey:
+      - Powers Gold Label
+      - Jameson Irish Whiskey
+      - Tullamore D.E.W. Original
+John Collins:
+  Ingredients:
+    Gin:
+      - Beefeater London Dry Gin
+      - Tanqueray London Dry Gin
+      - Portobello Road No. 171 Gin
+Jungle Bird:
+  Ingredients:
+    Blackstrap rum:
+      - Cruzan Black Strap Rum
+      - Goslings Black Seal Rum
+      - Coruba Dark
+      - Myers's Original Dark
+    Campari:
+      - Campari
+    Demerara sugar syrup:
+      - Homemade Demerara Syrup (2:1 Ratio)
+      - Jack Rudy Demerara Sugar Syrup
+      - Bristol Syrup Co. Demerara Sugar Syrup
+Kir:
+  Ingredients:
+    Dry White Wine:
+      - Bourgogne Aligoté
+      - Sauvignon Blanc (Touraine, Sancerre)
+      - Pinot Blanc
+      - Muscadet
+    Crème de Cassis:
+      - Gabriel Boudier Crème de Cassis de Dijon
+      - Giffard Crème de Cassis Impérial
+      - De Kuyper Crème de Cassis
+      - Bols Crème de Cassis
+Last Word:
+  Ingredients:
+    Gin:
+      - Tanqueray London Dry Gin
+      - Plymouth Gin
+      - Beefeater London Dry Gin
+      - Sipsmith London Dry Gin
+    Green Chartreuse:
+      - Green Chartreuse
+    Maraschino Liqueur:
+      - Luxardo Maraschino Liqueur
+Lemon Drop Martini:
+  Ingredients:
+    Vodka:
+      - Ketel One
+      - Tito's Handmade Vodka
+      - Smirnoff No. 21
+      - Absolut Citron
+    Triple Sec:
+      - Cointreau
+      - Grand Marnier Cordon Rouge
+      - DeKuyper Triple Sec
+Long Island Iced Tea:
+  Ingredients:
+    Vodka:
+      - Smirnoff No. 21
+      - Absolut
+    Tequila:
+      - Espolòn Blanco
+      - El Jimador Silver
+    White Rum:
+      - Bacardi Superior Carta Blanca
+      - Plantation 3 Stars
+    Gin:
+      - Gordon's London Dry Gin
+      - Beefeater London Dry Gin
+    Cointreau:
+      - Cointreau
+Mai-Tai:
+  Ingredients:
+    Amber Jamaican Rum:
+      - Appleton Estate 8 Year Old Reserve
+      - Smith & Cross Traditional Jamaica Rum
+    Martinique Molasses Rhum:
+      - Denizen Merchant's Reserve
+      - Rhum Clément VSOP
+    Orange Curaçao:
+      - Pierre Ferrand Dry Curaçao
+      - Clément Créole Shrubb
+    Orgeat Syrup (Almond):
+      - Liquid Alchemist
+      - William Fox
+      - Bristol Syrup Company
+      - Monin Orgeat Syrup
+Manhattan:
+  Ingredients:
+    Rye Whiskey:
+      - Rittenhouse Straight Rye Whisky Bottled-in-Bond
+      - Sagamore Spirit Signature Rye
+      - Michter's US*1 Kentucky Straight Rye
+    Sweet Red Vermouth:
+      - Carpano Antica Formula
+      - Cocchi Storico Vermouth di Torino
+      - Dolin Rouge
+    Angostura Bitters:
+      - Angostura Aromatic Bitters
+Margarita:
+  Ingredients:
+    Tequila 100% Agave:
+      - LALO Blanco Tequila
+      - Fortaleza Blanco
+      - Espolòn Blanco
+      - Cimarron Blanco
+    Triple Sec:
+      - Cointreau
+      - Pierre Ferrand Dry Curaçao
+Martinez:
+  Ingredients:
+    London Dry Gin:
+      - Hayman's London Dry Gin
+      - Sipsmith London Dry Gin
+    Sweet Red Vermouth:
+      - Cocchi Storico Vermouth di Torino
+      - Dolin Rouge
+    Maraschino Liqueur:
+      - Luxardo Maraschino Liqueur
+    Orange Bitters:
+      - Angostura Orange Bitters
+      - Regan's Orange Bitters No. 6
+Mary Pickford:
+  Ingredients:
+    White Rum:
+      - Probitas White Blended Rum (Veritas in UK)
+      - Plantation 3 Stars
+      - Bacardi Superior Carta Blanca
+    Maraschino Liqueur:
+      - Luxardo Maraschino Liqueur
+    Grenadine Syrup:
+      - Bristol Syrup Company
+      - Monin
+      - Teisseire
+Mimosa:
+  Ingredients:
+    Prosecco:
+      - La Marca Prosecco DOC
+      - Mionetto Prosecco di Treviso Brut
+      - Zonin Cuvée 1821 Prosecco Spumante Brut
+Mint Julep:
+  Ingredients:
+    Bourbon Whiskey:
+      - Woodford Reserve Kentucky Straight Bourbon
+      - Wild Turkey 101
+      - Buffalo Trace Kentucky Straight Bourbon
+      - Four Roses Small Batch
+Moscow Mule:
+  Ingredients:
+    Smirnoff Vodka:
+      - Smirnoff No. 21
+      - Ketel One
+      - Russian Standard
+    Ginger Beer:
+      - Fever-Tree Premium Ginger Beer
+      - Bundaberg Ginger Beer
+      - Fentimans Ginger Beer
+Missionary's Downfall:
+  Ingredients:
+    White Rum:
+      - Plantation 3 Stars
+      - Bacardi Superior Carta Blanca
+    Peach Brandy:
+      - Giffard Crème de Pêche de Vigne
+      - DeKuyper Peach Schnapps
+Mojito:
+  Ingredients:
+    White Cuban Ron (Rum):
+      - Havana Club Añejo 3 Años
+      - Plantation 3 Stars
+      - Bacardi Superior Carta Blanca
+Monkey Gland:
+  Ingredients:
+    Dry Gin:
+      - Beefeater London Dry Gin
+      - Hayman's London Dry Gin
+    Absinthe:
+      - La Fée Parisienne Absinthe
+      - Green Man Absinthe
+Naked and Famous:
+  Ingredients:
+    Mezcal:
+      - Del Maguey Vida Clásico Mezcal
+      - Del Maguey Chichicapa
+    Yellow Chartreuse:
+      - Yellow Chartreuse
+    Aperol:
+      - Aperol
+Negroni:
+  Ingredients:
+    Gin:
+      - Beefeater London Dry Gin
+      - Tanqueray No. 10
+      - Four Pillars Spiced Negroni Gin
+    Bitter Campari:
+      - Campari
+      - Aperol
+      - Cappelletti Aperitivo Americano Rosso
+      - Luxardo Bitter
+    Sweet Red Vermouth:
+      - Cocchi Storico Vermouth di Torino
+      - Carpano Antica Formula
+New York Sour:
+  Ingredients:
+    Rye Whiskey or Bourbon:
+      - Rittenhouse Straight Rye Whisky Bottled-in-Bond
+      - Buffalo Trace
+      - Woodford Reserve
+    Red Wine (Shiraz or Malbec):
+      - Australian Shiraz (e.g., 19 Crimes Cabernet Sauvignon)
+      - Argentinian Malbec
+Old Cuban:
+  Ingredients:
+    Aged Rum:
+      - Bacardi Reserva Ocho (8 Años)
+      - Plantation 5 Year Grande Réserve
+      - Flor de Caña 7 Gran Reserva
+    Brut Champagne or Prosecco:
+      - Brut Cava (e.g., Freixenet Cordon Negro Brut)
+      - Brut Prosecco (e.g., La Marca, Mionetto)
+Old Fashioned:
+  Ingredients:
+    Bourbon or Rye Whiskey:
+      - Russell's Reserve 10 Year
+      - Rittenhouse Straight Rye Bottled-in-Bond
+      - Wild Turkey 101
+      - WhistlePig Piggyback Rye
+    Angostura Bitters:
+      - Angostura Aromatic Bitters
+      - Regan's Orange Bitters No. 6
+      - Fee Brothers Black Walnut Bitters
+Paloma:
+  Ingredients:
+    100% Agave Tequila:
+      - Espolòn Blanco
+      - Patrón Reposado
+      - El Jimador Silver
+    Pink Grapefruit Soda:
+      - Franklin & Sons Pink Grapefruit Soda
+      - Jarritos Grapefruit Soda
+Paper Plane:
+  Ingredients:
+    Bourbon Whiskey:
+      - Woodford Reserve Kentucky Straight Bourbon
+      - Bulleit Bourbon
+      - Maker's Mark
+    Amaro Nonino Quintessentia:
+      - Amaro Nonino Quintessentia
+    Aperol:
+      - Aperol
+Paradise:
+  Ingredients:
+    Gin:
+      - Beefeater London Dry Gin
+      - Hayman's London Dry Gin
+    Apricot Brandy:
+      - Giffard Abricot du Roussillon
+      - Rothman & Winter Orchard Apricot Liqueur
+      - DeKuyper Apricot Brandy
+Penicillin:
+  Ingredients:
+    Blended Scotch Whisky:
+      - Monkey Shoulder Blended Malt Scotch Whisky
+      - Dewar's 12 Year Old
+      - The Famous Grouse
+    Lagavulin 16 Year Old Islay Single Malt:
+      - Lagavulin 16 Year Old Islay Single Malt
+      - Laphroaig 10 Year Old
+      - Ardbeg 10 Year Old
+      - Ardbeg Wee Beastie
+Piña Colada:
+  Ingredients:
+    White Rum:
+      - Plantation 3 Stars
+      - Bacardi Superior Carta Blanca
+      - Appleton Estate Signature Blend
+      - Myers's Original Dark Rum
+    Coconut Cream:
+      - Coco Lopez Cream of Coconut
+Pisco Punch:
+  Ingredients:
+    Pisco:
+      - BarSol Primero Quebranta
+      - BarSol Mosto Verde Italia
+      - Macchu Pisco
+    Dry White Wine:
+      - Pinot Grigio
+      - Sauvignon Blanc
+Pisco Sour:
+  Ingredients:
+    Pisco:
+      - La Diablada Pisco Acholado
+      - BarSol Selecto Acholado
+      - BarSol Primero Quebranta
+Planters Punch:
+  Ingredients:
+    Jamaican Rum:
+      - Appleton Estate Signature Blend
+      - Coruba Dark Jamaican Rum
+      - Smith & Cross Traditional Jamaica Rum
+Porn Star Martini:
+  Ingredients:
+    Vanilla Vodka:
+      - Absolut Vanilia
+      - JJ Whitley Vanilla Vodka
+      - Grey Goose La Vanille
+    Passion Fruit Liqueur:
+      - Passoã
+      - Chinola Passion Fruit Liqueur
+Rabo de Galo:
+  Ingredients:
+    Cachaça:
+      - Novo Fogo Chameleon
+      - Matriarca Amburana
+      - Abelha Prata Organic Cachaça
+    Sweet Vermouth:
+      - Cinzano Rosso
+      - Cocchi Vermouth di Torino
+      - Carpano Antica Formula
+    Cynar & Angostura Bitters:
+      - Cynar and Angostura Aromatic Bitters
+Ramos Fizz:
+  Ingredients:
+    Gin:
+      - Hayman's Old Tom Gin
+      - Plymouth Gin
+      - Fords Gin or Beefeater London Dry
+Remember the Maine:
+  Ingredients:
+    Rye Whiskey:
+      - Rittenhouse Bottled-in-Bond Rye
+      - Bulleit Rye
+      - Old Overholt Rye
+    Sweet Vermouth:
+      - Cocchi Vermouth di Torino
+      - Vermouth Del Professore Rosso
+    Cherry Brandy:
+      - Cherry Heering
+      - Luxardo Sangue Morlacco
+    Absinthe:
+      - La Fée Parisienne Absinthe
+      - St. George Absinthe Verte
+Russian Spring Punch:
+  Ingredients:
+    Vodka:
+      - Ketel One Vodka
+      - Belvedere
+      - Grey Goose
+    Crème de Cassis:
+      - Joseph Cartron Double Crème de Cassis de Bourgogne
+      - Giffard Cassis Noir de Bourgogne
+Rusty Nail:
+  Ingredients:
+    Scotch Whisky:
+      - Monkey Shoulder Blended Malt
+      - The Famous Grouse
+      - Dewar's White Label
+      - Ardbeg Wee Beastie
+    Drambuie:
+      - Drambuie
+Sazerac:
+  Ingredients:
+    Cognac:
+      - Rémy Martin 1738 Accord Royal
+      - Pierre Ferrand 1840 Original Formula
+      - Rémy Martin 1738 with Rittenhouse Rye
+    Absinthe:
+      - Herbsaint
+      - St. George Absinthe Verte
+    Peychaud’s Bitters:
+      - Peychaud’s Bitters
+      - The Bitter Truth Creole Bitters
+      - Scrappy's Orleans Bitters
+      - All The Bitter's New Orleans Bitters
+Sea Breeze:
+  Ingredients:
+    Vodka:
+      - Ketel One Vodka
+      - Absolut
+      - Stolichnaya
+Sex on the Beach:
+  Ingredients:
+    Vodka:
+      - Ketel One Vodka
+      - Smirnoff No. 21
+      - Absolut
+    Peach Schnapps:
+      - Archers Peach Schnapps
+      - Giffard Pêche de Vigne
+Sherry Cobbler:
+  Ingredients:
+    Amontillado Sherry:
+      - Lustau Los Arcos Amontillado
+      - Waitrose Blueprint Amontillado Sherry
+    Palo Cortado Sherry:
+      - Gonzalez Byass Leonor Palo Cortado
+      - No.1 Torre del Oro Palo Cortado (Lustau for Waitrose)
+Sidecar:
+  Ingredients:
+    Cognac:
+      - H by Hine VSOP
+      - Rémy Martin VSOP
+      - Courvoisier VSOP
+    Triple Sec:
+      - Cointreau
+      - Pierre Ferrand Dry Curaçao
+Singapore Sling:
+  Ingredients:
+    Gin:
+      - Tanqueray London Dry Gin
+      - Beefeater London Dry
+    Cherry Sangue Morlacco:
+      - Luxardo's Sangue Morlacco
+      - Cherry Heering
+    Cointreau:
+      - Cointreau
+      - Luxardo Triplum
+      - Combier Liqueur d'Orange
+      - Grand Marnier
+    DOM Bénédictine:
+      - D.O.M. Bénédictine
+      - Yellow Chartreuse
+      - Drambuie
+South Side:
+  Ingredients:
+    London dry Gin:
+      - Tanqueray London Dry Gin
+      - Broker's London Dry Gin
+Spicy Fifty:
+  Ingredients:
+    Vodka Vanilla:
+      - Stoli Vanil
+      - Absolut Vanilia
+    Elderflower Cordial:
+      - Belvoir Farm Elderflower Cordial
+      - Bottlegreen Elderflower Cordial
+Spritz:
+  Ingredients:
+    Prosecco:
+      - La Marca Prosecco
+      - Bisol
+      - Bele Casel
+      - Ca'Vittoria
+    Aperol:
+      - Aperol
+      - Campari
+      - Cocchi Americano
+      - Italicus Rosolio di Bergamotto
+      - Lyre's Italian Spritz
+      - Novara Aperitivo
+Stinger:
+  Ingredients:
+    Cognac:
+      - Pierre Ferrand Ambre
+      - H by Hine VSOP
+      - Hennessy V.S
+    White Crème de Menthe:
+      - Tempus Fugit Crème de Menthe Glaciale
+      - Giffard
+      - De Kuyper
+Suffering Bastard:
+  Ingredients:
+    Cognac or Brandy:
+      - Hennessy Privilège VSOP Cognac
+    Gin:
+      - Plymouth Gin
+      - Tanqueray Rangpur Lime
+Tequila Sunrise:
+  Ingredients:
+    Tequila:
+      - Espolòn Blanco
+      - Don Julio Blanco
+      - Casamigos Blanco
+Three Dots and a Dash:
+  Ingredients:
+    Rhum Martinique Agricole:
+      - Clément VSOP Rhum Agricole Vieux
+    Blended Aged Rum:
+      - Skipper Rum
+      - Appleton Estate Signature Blend
+    Falernum:
+      - John D. Taylor's Velvet Falernum
+Tipperary:
+  Ingredients:
+    Irish Whiskey:
+      - Redbreast 12 Year Old
+      - Jameson Black Barrel
+    Sweet Red Vermouth:
+      - Cocchi Vermouth di Torino
+    Green Chartreuse:
+      - Green Chartreuse
+Tommy's Margarita:
+  Ingredients:
+    Tequila 100% agave:
+      - Espolòn Blanco
+      - Don Julio Blanco
+      - Patrón Silver
+Trinidad Sour:
+  Ingredients:
+    Angostura Bitters:
+      - Angostura Aromatic Bitters
+    Orgeat Syrup:
+      - Liquid Alchemist Almond Orgeat Syrup
+    Rye Whiskey:
+      - Rittenhouse Bottled-in-Bond Rye
+      - Blackland Rye
+Tuxedo:
+  Ingredients:
+    Old Tom Gin:
+      - Ransom Old Tom Gin
+      - Hayman's Old Tom Gin
+    Dry Vermouth:
+      - Dolin Vermouth de Chambéry Dry
+      - Noilly Prat Extra Dry
+Ve.N.To:
+  Ingredients:
+    White Smooth Grappa:
+      - Nonino Grappa Monovitigno Moscato
+      - Alexander Grappa Bianca
+    Chamomile Cordial:
+      - Belvoir Farm Elderflower Cordial
+Vesper:
+  Ingredients:
+    Gin:
+      - Tanqueray London Dry Gin
+      - Fords Gin
+    Vodka:
+      - Belvedere
+      - Grey Goose
+      - Stolichnaya
+    Lillet Blanc:
+      - Lillet Blanc
+      - Cocchi Americano
+Vieux Carré:
+  Ingredients:
+    Rye Whiskey:
+      - Sazerac Rye
+      - Rittenhouse Bottled-in-Bond Rye
+    Cognac:
+      - Martell VSOP
+      - Pierre Ferrand 1840 Original Formula
+    Sweet Vermouth:
+      - Cocchi Vermouth di Torino
+Whiskey Sour:
+  Ingredients:
+    Bourbon Whiskey:
+      - Buffalo Trace
+      - Maker's Mark
+      - Woodford Reserve
+White Lady:
+  Ingredients:
+    Gin:
+      - Beefeater London Dry
+      - Tanqueray London Dry
+    Triple Sec:
+      - Cointreau
+      - Pierre Ferrand Dry Curaçao
+      - Luxardo Triplum
+Zombie:
+  Ingredients:
+    Jamaican dark rum:
+      - Hamilton Jamaican Pot Still Black Rum
+      - Myers's Original Dark Rum
+    Gold Puerto Rican rum:
+      - Bacardí Añejo Cuatro
+      - Flor de Caña 7 Year Old Gran Reserva
+    Demerara Rum:
+      - Lemon Hart 151
+      - Plantation O.F.T.D. Rum
+    Pernod:
+      - Pernod
+      - absinthe
+      - Herbsaint

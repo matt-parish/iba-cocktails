@@ -4,6 +4,8 @@ A comprehensive Python scraper to extract all cocktail details from the Internat
 
 A pre-prepared JSON of [cocktails available as of September 2025](https://github.com/matt-parish/iba-cocktails/blob/main/data/cocktails.json) is available.
 
+Note: As the purpose of this was to plan out my home bar, I had Google Gemini do deep research on the recommended bottles for each cocktail, with a nudge to recommend options easily available in my home country (UK).  That data is available in `data/cocktail_compendium/uk`.  Read more about it in [the cocktail compendium readme](data/cocktail_compendium/readme.md).
+
 ## Features
 
 - **Complete data extraction**: All 102+ cocktails with ingredients, methods, garnish, categories, views, and video links
